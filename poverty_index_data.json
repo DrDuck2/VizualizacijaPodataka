@@ -1,0 +1,3467 @@
+[
+    {
+        "Entity": "Albania",
+        "Year": 2010.0,
+        "Poverty_Index": 0.02349041434565685,
+        "gdp_growth": 3.70693815,
+        "gdp_per_capita": 4094.348386
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2011.0,
+        "Poverty_Index": 0.025418308855622605,
+        "gdp_growth": 2.545406145,
+        "gdp_per_capita": 4437.142612
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2012.0,
+        "Poverty_Index": 0.024330051602448475,
+        "gdp_growth": 1.4172428,
+        "gdp_per_capita": 4247.630047
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2013.0,
+        "Poverty_Index": 0.025262291609680902,
+        "gdp_growth": 1.00201754,
+        "gdp_per_capita": 4413.062005
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2014.0,
+        "Poverty_Index": 0.02621036684606791,
+        "gdp_growth": 1.774448855,
+        "gdp_per_capita": 4578.633208
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2015.0,
+        "Poverty_Index": 0.02266942238414732,
+        "gdp_growth": 2.218726372,
+        "gdp_per_capita": 3952.802538
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2016.0,
+        "Poverty_Index": 0.023653797873277416,
+        "gdp_growth": 3.314980684,
+        "gdp_per_capita": 4124.05539
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2017.0,
+        "Poverty_Index": 0.02596622940075344,
+        "gdp_growth": 3.8022274,
+        "gdp_per_capita": 4531.019374
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2018.0,
+        "Poverty_Index": 0.030256872069633352,
+        "gdp_growth": 4.019359686,
+        "gdp_per_capita": 5287.663694
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2019.0,
+        "Poverty_Index": 0.030844736961220854,
+        "gdp_growth": 2.113419982,
+        "gdp_per_capita": 5395.659532
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2020.0,
+        "Poverty_Index": 0.02992139079374386,
+        "gdp_growth": -3.955397927,
+        "gdp_per_capita": 5246.292306
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.018507214132785547,
+        "gdp_growth": 2.2,
+        "gdp_per_capita": 3218.378299
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.020281080922498616,
+        "gdp_growth": 4.699999999,
+        "gdp_per_capita": 3525.807198
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.02119701491304441,
+        "gdp_growth": 7.200000001,
+        "gdp_per_capita": 3681.844691
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.022033521910074735,
+        "gdp_growth": 3.3,
+        "gdp_per_capita": 3838.17388
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.02287636352377354,
+        "gdp_growth": 3.600000001,
+        "gdp_per_capita": 3986.231624
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.020723835619614557,
+        "gdp_growth": 3.199999999,
+        "gdp_per_capita": 3607.289299
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.020598210703434452,
+        "gdp_growth": 0.2,
+        "gdp_per_capita": 3591.828052
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.02251942749133674,
+        "gdp_growth": 7.500000002,
+        "gdp_per_capita": 3914.527854
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.024224457359688572,
+        "gdp_growth": 5.2,
+        "gdp_per_capita": 4220.540321
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.026431585258097395,
+        "gdp_growth": 7.599999999,
+        "gdp_per_capita": 4604.646324
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.0243225527858296,
+        "gdp_growth": -7.4,
+        "gdp_per_capita": 4266.018074
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2010.0,
+        "Poverty_Index": 0.2658079353651586,
+        "gdp_growth": 1.837093677,
+        "gdp_per_capita": 46858.04327
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2011.0,
+        "Poverty_Index": 0.29141897939529743,
+        "gdp_growth": 2.922797284,
+        "gdp_per_capita": 51374.95841
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2012.0,
+        "Poverty_Index": 0.27548185411352544,
+        "gdp_growth": 0.680445577,
+        "gdp_per_capita": 48567.69529
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2013.0,
+        "Poverty_Index": 0.28765198325071434,
+        "gdp_growth": 0.025504712,
+        "gdp_per_capita": 50716.70871
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2014.0,
+        "Poverty_Index": 0.2933314836786266,
+        "gdp_growth": 0.661272849,
+        "gdp_per_capita": 51717.49594
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2015.0,
+        "Poverty_Index": 0.2506100181298332,
+        "gdp_growth": 1.014501586,
+        "gdp_per_capita": 44178.04738
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2016.0,
+        "Poverty_Index": 0.25684916193455354,
+        "gdp_growth": 1.989437162,
+        "gdp_per_capita": 45276.83144
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2017.0,
+        "Poverty_Index": 0.26838587617788023,
+        "gdp_growth": 2.258572433,
+        "gdp_per_capita": 47312.00623
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2018.0,
+        "Poverty_Index": 0.29190369472368766,
+        "gdp_growth": 2.501595119,
+        "gdp_per_capita": 51461.43322
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2019.0,
+        "Poverty_Index": 0.2842572838980047,
+        "gdp_growth": 1.49121085,
+        "gdp_per_capita": 50114.40111
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2754961893902592,
+        "gdp_growth": -6.734514076,
+        "gdp_per_capita": 48586.80132
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2010.0,
+        "Poverty_Index": 0.03342002289747139,
+        "gdp_growth": 5.048944567,
+        "gdp_per_capita": 5843.533768
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2011.0,
+        "Poverty_Index": 0.04098597982516457,
+        "gdp_growth": 0.1,
+        "gdp_per_capita": 7189.691229
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2012.0,
+        "Poverty_Index": 0.0427496607572355,
+        "gdp_growth": 2.16523943,
+        "gdp_per_capita": 7496.294648
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2013.0,
+        "Poverty_Index": 0.044946239934178504,
+        "gdp_growth": 5.809800945,
+        "gdp_per_capita": 7875.756953
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2014.0,
+        "Poverty_Index": 0.04499563920512442,
+        "gdp_growth": 2.75050703,
+        "gdp_per_capita": 7891.313147
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2015.0,
+        "Poverty_Index": 0.03142487665152118,
+        "gdp_growth": 1.093975846,
+        "gdp_per_capita": 5500.310382
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2016.0,
+        "Poverty_Index": 0.022193656244143094,
+        "gdp_growth": -3.1,
+        "gdp_per_capita": 3880.738731
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2017.0,
+        "Poverty_Index": 0.023744870122707578,
+        "gdp_growth": 0.2,
+        "gdp_per_capita": 4147.089716
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2018.0,
+        "Poverty_Index": 0.027120456054020563,
+        "gdp_growth": 1.5,
+        "gdp_per_capita": 4739.84171
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2019.0,
+        "Poverty_Index": 0.027506647157336746,
+        "gdp_growth": 2.5,
+        "gdp_per_capita": 4805.753718
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2020.0,
+        "Poverty_Index": 0.024109018355293634,
+        "gdp_growth": -4.3,
+        "gdp_per_capita": 4221.407478
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2010.0,
+        "Poverty_Index": 0.03453244455285573,
+        "gdp_growth": 7.798266823,
+        "gdp_per_capita": 6033.686239
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2011.0,
+        "Poverty_Index": 0.037298378655120125,
+        "gdp_growth": 5.37870745,
+        "gdp_per_capita": 6527.173869
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2012.0,
+        "Poverty_Index": 0.03966551221546132,
+        "gdp_growth": 1.687135536,
+        "gdp_per_capita": 6953.132515
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2013.0,
+        "Poverty_Index": 0.04557880893576039,
+        "gdp_growth": 1.003470841,
+        "gdp_per_capita": 7998.125239
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2014.0,
+        "Poverty_Index": 0.0475332983955795,
+        "gdp_growth": 1.726384854,
+        "gdp_per_capita": 8341.399679
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2015.0,
+        "Poverty_Index": 0.034007520268388686,
+        "gdp_growth": -3.829570558,
+        "gdp_per_capita": 5967.052204
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2016.0,
+        "Poverty_Index": 0.028768635716561,
+        "gdp_growth": -2.526446436,
+        "gdp_per_capita": 5039.681886
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2017.0,
+        "Poverty_Index": 0.033060229387974566,
+        "gdp_growth": 2.5321835,
+        "gdp_per_capita": 5785.670673
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2018.0,
+        "Poverty_Index": 0.03632311579772685,
+        "gdp_growth": 3.149197594,
+        "gdp_per_capita": 6360.062473
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2019.0,
+        "Poverty_Index": 0.03900782127557532,
+        "gdp_growth": 1.4,
+        "gdp_per_capita": 6837.717826
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2020.0,
+        "Poverty_Index": 0.03663501288036786,
+        "gdp_growth": -0.9,
+        "gdp_per_capita": 6424.152176
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2010.0,
+        "Poverty_Index": 0.25042848214594465,
+        "gdp_growth": 2.864292708,
+        "gdp_per_capita": 44141.87814
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2011.0,
+        "Poverty_Index": 0.268585681687119,
+        "gdp_growth": 1.694513899,
+        "gdp_per_capita": 47348.52502
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2012.0,
+        "Poverty_Index": 0.25341207629332335,
+        "gdp_growth": 0.739217283,
+        "gdp_per_capita": 44673.11588
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2013.0,
+        "Poverty_Index": 0.2651479528272169,
+        "gdp_growth": 0.459242193,
+        "gdp_per_capita": 46744.66254
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2014.0,
+        "Poverty_Index": 0.2705790779424499,
+        "gdp_growth": 1.578533143,
+        "gdp_per_capita": 47700.54036
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2015.0,
+        "Poverty_Index": 0.23256665900557713,
+        "gdp_growth": 2.041459009,
+        "gdp_per_capita": 40991.80814
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2016.0,
+        "Poverty_Index": 0.23818016367701417,
+        "gdp_growth": 1.266686409,
+        "gdp_per_capita": 41984.10303
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2017.0,
+        "Poverty_Index": 0.2501148108482559,
+        "gdp_growth": 1.619580278,
+        "gdp_per_capita": 44089.31009
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2018.0,
+        "Poverty_Index": 0.2695564748837862,
+        "gdp_growth": 1.819203664,
+        "gdp_per_capita": 47519.5531
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2019.0,
+        "Poverty_Index": 0.264301349710196,
+        "gdp_growth": 2.149559681,
+        "gdp_per_capita": 46591.49161
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2020.0,
+        "Poverty_Index": 0.25608648177636295,
+        "gdp_growth": -5.65965987,
+        "gdp_per_capita": 45159.34822
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2010.0,
+        "Poverty_Index": 0.026521174762031818,
+        "gdp_growth": 0.86566926,
+        "gdp_per_capita": 4635.510195
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2011.0,
+        "Poverty_Index": 0.02911242802395415,
+        "gdp_growth": 0.959511247,
+        "gdp_per_capita": 5092.554723
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2012.0,
+        "Poverty_Index": 0.02730199594307773,
+        "gdp_growth": -0.821836474,
+        "gdp_per_capita": 4777.066914
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2013.0,
+        "Poverty_Index": 0.029340337037530077,
+        "gdp_growth": 2.349856663,
+        "gdp_per_capita": 5129.663534
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2014.0,
+        "Poverty_Index": 0.030462501052013244,
+        "gdp_growth": 1.153851092,
+        "gdp_per_capita": 5330.355075
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2015.0,
+        "Poverty_Index": 0.02708305896610854,
+        "gdp_growth": 3.089164152,
+        "gdp_per_capita": 4729.689959
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2016.0,
+        "Poverty_Index": 0.02858717398846867,
+        "gdp_growth": 3.149806916,
+        "gdp_per_capita": 4994.971551
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2017.0,
+        "Poverty_Index": 0.030850260251319872,
+        "gdp_growth": 3.171434875,
+        "gdp_per_capita": 5394.268944
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2018.0,
+        "Poverty_Index": 0.03468880003544489,
+        "gdp_growth": 3.740071092,
+        "gdp_per_capita": 6070.349081
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2019.0,
+        "Poverty_Index": 0.03495730748656331,
+        "gdp_growth": 2.831002603,
+        "gdp_per_capita": 6119.762345
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2020.0,
+        "Poverty_Index": 0.03465412509147698,
+        "gdp_growth": -3.196950134,
+        "gdp_per_capita": 6079.738285
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2010.0,
+        "Poverty_Index": 0.03909623774487854,
+        "gdp_growth": 1.541801443,
+        "gdp_per_capita": 6853.002854
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2011.0,
+        "Poverty_Index": 0.04474856206111022,
+        "gdp_growth": 2.10120575,
+        "gdp_per_capita": 7849.165283
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2012.0,
+        "Poverty_Index": 0.04237015026349305,
+        "gdp_growth": 0.754930386,
+        "gdp_per_capita": 7432.478766
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2013.0,
+        "Poverty_Index": 0.04376714801210509,
+        "gdp_growth": -0.560493966,
+        "gdp_per_capita": 7681.93462
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2014.0,
+        "Poverty_Index": 0.04503239152903236,
+        "gdp_growth": 0.966869032,
+        "gdp_per_capita": 7901.785876
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2015.0,
+        "Poverty_Index": 0.04037638104541639,
+        "gdp_growth": 3.428054914,
+        "gdp_per_capita": 7074.681023
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2016.0,
+        "Poverty_Index": 0.04317547423403361,
+        "gdp_growth": 3.039825276,
+        "gdp_per_capita": 7569.478815
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2017.0,
+        "Poverty_Index": 0.04768749184026245,
+        "gdp_growth": 2.76217096,
+        "gdp_per_capita": 8366.293221
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2018.0,
+        "Poverty_Index": 0.05380916199794469,
+        "gdp_growth": 2.684576131,
+        "gdp_per_capita": 9446.700772
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2019.0,
+        "Poverty_Index": 0.05627765795902618,
+        "gdp_growth": 4.037592082,
+        "gdp_per_capita": 9879.268533
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2020.0,
+        "Poverty_Index": 0.05730395471232799,
+        "gdp_growth": -4.387149834,
+        "gdp_per_capita": 10079.20338
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.07994543703151721,
+        "gdp_growth": -1.250700462,
+        "gdp_per_capita": 14067.52312
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.08386847891387672,
+        "gdp_growth": -0.085243549,
+        "gdp_per_capita": 14757.18034
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.07615899613401744,
+        "gdp_growth": -2.275706646,
+        "gdp_per_capita": 13401.65662
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.07865445677578403,
+        "gdp_growth": -0.363117372,
+        "gdp_per_capita": 13837.73164
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.07822761724033025,
+        "gdp_growth": -0.345947048,
+        "gdp_per_capita": 13762.37286
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.0678991076704843,
+        "gdp_growth": 2.52568842,
+        "gdp_per_capita": 11933.37738
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.07128010501078783,
+        "gdp_growth": 3.532432232,
+        "gdp_per_capita": 12527.73986
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.07752107138563527,
+        "gdp_growth": 3.41409226,
+        "gdp_per_capita": 13629.28959
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.08657193331189855,
+        "gdp_growth": 2.900009599,
+        "gdp_per_capita": 15227.5601
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.08705650437347903,
+        "gdp_growth": 3.481945603,
+        "gdp_per_capita": 15311.7669
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.08023631333495096,
+        "gdp_growth": -8.099761252,
+        "gdp_per_capita": 14134.16268
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2010.0,
+        "Poverty_Index": 0.1760768529827034,
+        "gdp_growth": 2.014695707,
+        "gdp_per_capita": 31023.63833
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2011.0,
+        "Poverty_Index": 0.18383575374560313,
+        "gdp_growth": 0.401437941,
+        "gdp_per_capita": 32396.38574
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2012.0,
+        "Poverty_Index": 0.16404192937510786,
+        "gdp_growth": -3.446822086,
+        "gdp_per_capita": 28912.15694
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2013.0,
+        "Poverty_Index": 0.15729873659060023,
+        "gdp_growth": -6.553078255,
+        "gdp_per_capita": 27729.1927
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2014.0,
+        "Poverty_Index": 0.1541518623649352,
+        "gdp_growth": -1.829309109,
+        "gdp_per_capita": 27163.33297
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2015.0,
+        "Poverty_Index": 0.13293838987767245,
+        "gdp_growth": 3.383079712,
+        "gdp_per_capita": 23408.33668
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2016.0,
+        "Poverty_Index": 0.1397639928329581,
+        "gdp_growth": 6.454554466,
+        "gdp_per_capita": 24605.92083
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2017.0,
+        "Poverty_Index": 0.15110707744412863,
+        "gdp_growth": 5.852540355,
+        "gdp_per_capita": 26608.87509
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2018.0,
+        "Poverty_Index": 0.16654892438898772,
+        "gdp_growth": 5.692841724,
+        "gdp_per_capita": 29334.11093
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2019.0,
+        "Poverty_Index": 0.16581816665467283,
+        "gdp_growth": 5.283187396,
+        "gdp_per_capita": 29206.07672
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2020.0,
+        "Poverty_Index": 0.1561744785619715,
+        "gdp_growth": -5.2289881,
+        "gdp_per_capita": 27527.84531
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2010.0,
+        "Poverty_Index": 0.32918426875384904,
+        "gdp_growth": 1.870991147,
+        "gdp_per_capita": 58041.39844
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2011.0,
+        "Poverty_Index": 0.3502147578982067,
+        "gdp_growth": 1.336777767,
+        "gdp_per_capita": 61753.64713
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2012.0,
+        "Poverty_Index": 0.3318048711790778,
+        "gdp_growth": 0.226499792,
+        "gdp_per_capita": 58507.50805
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2013.0,
+        "Poverty_Index": 0.34702223180839975,
+        "gdp_growth": 0.933340972,
+        "gdp_per_capita": 61191.1937
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2014.0,
+        "Poverty_Index": 0.3547255043950302,
+        "gdp_growth": 1.619393811,
+        "gdp_per_capita": 62548.98473
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2015.0,
+        "Poverty_Index": 0.3020649821021285,
+        "gdp_growth": 2.342591108,
+        "gdp_per_capita": 53254.85637
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2016.0,
+        "Poverty_Index": 0.31006201294165847,
+        "gdp_growth": 3.245956985,
+        "gdp_per_capita": 54663.99837
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2017.0,
+        "Poverty_Index": 0.3267521414865955,
+        "gdp_growth": 2.821736341,
+        "gdp_per_capita": 57610.09818
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2018.0,
+        "Poverty_Index": 0.3493065726247897,
+        "gdp_growth": 1.989537315,
+        "gdp_per_capita": 61591.92887
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2019.0,
+        "Poverty_Index": 0.3390158153076393,
+        "gdp_growth": 2.114664208,
+        "gdp_per_capita": 59775.7351
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2020.0,
+        "Poverty_Index": 0.34625960443770215,
+        "gdp_growth": -2.062124959,
+        "gdp_per_capita": 61063.31643
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.0833670588861356,
+        "gdp_growth": 2.444265118,
+        "gdp_per_capita": 14663.04461
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.09930629307523299,
+        "gdp_growth": 7.263084581,
+        "gdp_per_capita": 17464.92008
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.09891108088051463,
+        "gdp_growth": 3.228200494,
+        "gdp_per_capita": 17404.2008
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.10821869955266154,
+        "gdp_growth": 1.458428636,
+        "gdp_per_capita": 19050.58592
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.11494542838345277,
+        "gdp_growth": 3.011366587,
+        "gdp_per_capita": 20234.11742
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.09884174845572788,
+        "gdp_growth": 1.853020046,
+        "gdp_per_capita": 17395.04062
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.10388986825266298,
+        "gdp_growth": 3.155564814,
+        "gdp_per_capita": 18282.92339
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.11584864397850995,
+        "gdp_growth": 5.792044675,
+        "gdp_per_capita": 20387.28315
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.13093025350028414,
+        "gdp_growth": 4.133819798,
+        "gdp_per_capita": 23052.30126
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.13288386133223115,
+        "gdp_growth": 4.096342644,
+        "gdp_per_capita": 23397.12001
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.1306972679301607,
+        "gdp_growth": -2.951069313,
+        "gdp_per_capita": 23027.027
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2010.0,
+        "Poverty_Index": 0.2635691670453303,
+        "gdp_growth": 3.185958654,
+        "gdp_per_capita": 46459.97325
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2011.0,
+        "Poverty_Index": 0.28975402286883084,
+        "gdp_growth": 2.547664838,
+        "gdp_per_capita": 51081.99767
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2012.0,
+        "Poverty_Index": 0.2705994605301671,
+        "gdp_growth": -1.397545728,
+        "gdp_per_capita": 47710.79022
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2013.0,
+        "Poverty_Index": 0.28288753228338814,
+        "gdp_growth": -0.901696316,
+        "gdp_per_capita": 49878.04324
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2014.0,
+        "Poverty_Index": 0.28506057518260186,
+        "gdp_growth": -0.364908157,
+        "gdp_per_capita": 50260.29986
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2015.0,
+        "Poverty_Index": 0.24270796540235132,
+        "gdp_growth": 0.543659212,
+        "gdp_per_capita": 42784.69836
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2016.0,
+        "Poverty_Index": 0.2484013320043779,
+        "gdp_growth": 2.811457767,
+        "gdp_per_capita": 43784.28396
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2017.0,
+        "Poverty_Index": 0.26264849464577233,
+        "gdp_growth": 3.19240963,
+        "gdp_per_capita": 46297.49635
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2018.0,
+        "Poverty_Index": 0.28340337134197163,
+        "gdp_growth": 1.141947509,
+        "gdp_per_capita": 49964.49991
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2019.0,
+        "Poverty_Index": 0.27583408187035857,
+        "gdp_growth": 1.220754143,
+        "gdp_per_capita": 48628.64176
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2764424753130031,
+        "gdp_growth": -2.800135891,
+        "gdp_per_capita": 48744.98813
+    },
+    {
+        "Entity": "France",
+        "Year": 2010.0,
+        "Poverty_Index": 0.23056236770840574,
+        "gdp_growth": 1.949437623,
+        "gdp_per_capita": 40638.33525
+    },
+    {
+        "Entity": "France",
+        "Year": 2011.0,
+        "Poverty_Index": 0.24843000017821829,
+        "gdp_growth": 2.192700633,
+        "gdp_per_capita": 43790.72602
+    },
+    {
+        "Entity": "France",
+        "Year": 2012.0,
+        "Poverty_Index": 0.23188111544826948,
+        "gdp_growth": 0.313134751,
+        "gdp_per_capita": 40874.70039
+    },
+    {
+        "Entity": "France",
+        "Year": 2013.0,
+        "Poverty_Index": 0.24162166141900152,
+        "gdp_growth": 0.576326675,
+        "gdp_per_capita": 42592.93539
+    },
+    {
+        "Entity": "France",
+        "Year": 2014.0,
+        "Poverty_Index": 0.24399713050731722,
+        "gdp_growth": 0.956183052,
+        "gdp_per_capita": 43011.2631
+    },
+    {
+        "Entity": "France",
+        "Year": 2015.0,
+        "Poverty_Index": 0.2078829788461788,
+        "gdp_growth": 1.112912341,
+        "gdp_per_capita": 36638.18493
+    },
+    {
+        "Entity": "France",
+        "Year": 2016.0,
+        "Poverty_Index": 0.2101449572780185,
+        "gdp_growth": 1.095464404,
+        "gdp_per_capita": 37037.37419
+    },
+    {
+        "Entity": "France",
+        "Year": 2017.0,
+        "Poverty_Index": 0.2194986438541018,
+        "gdp_growth": 2.291419994,
+        "gdp_per_capita": 38685.25849
+    },
+    {
+        "Entity": "France",
+        "Year": 2018.0,
+        "Poverty_Index": 0.23585511133250175,
+        "gdp_growth": 1.865066071,
+        "gdp_per_capita": 41572.48501
+    },
+    {
+        "Entity": "France",
+        "Year": 2019.0,
+        "Poverty_Index": 0.23022275115516036,
+        "gdp_growth": 1.842971814,
+        "gdp_per_capita": 40578.64429
+    },
+    {
+        "Entity": "France",
+        "Year": 2020.0,
+        "Poverty_Index": 0.22132578521835694,
+        "gdp_growth": -7.855256037,
+        "gdp_per_capita": 39030.36037
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.018643054162157262,
+        "gdp_growth": 6.249487768,
+        "gdp_per_capita": 3233.295943
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.023125748952770243,
+        "gdp_growth": 7.399999867,
+        "gdp_per_capita": 4021.743306
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.025379906161472586,
+        "gdp_growth": 6.369008306,
+        "gdp_per_capita": 4421.818242
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.026489416166941785,
+        "gdp_growth": 3.621305352,
+        "gdp_per_capita": 4623.745725
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.027153897241290123,
+        "gdp_growth": 4.431924823,
+        "gdp_per_capita": 4739.188338
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.023027460317778196,
+        "gdp_growth": 3.02220738,
+        "gdp_per_capita": 4014.185944
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.02329791795588032,
+        "gdp_growth": 2.90643878,
+        "gdp_per_capita": 4062.169888
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.02499324982090887,
+        "gdp_growth": 4.842603225,
+        "gdp_per_capita": 4357.000936
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.027066162340753302,
+        "gdp_growth": 4.842919885,
+        "gdp_per_capita": 4722.787783
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.026927364118927617,
+        "gdp_growth": 4.982350475,
+        "gdp_per_capita": 4697.983652
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.02433446751661695,
+        "gdp_growth": -6.760439817,
+        "gdp_per_capita": 4266.690795
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2010.0,
+        "Poverty_Index": 0.23565463634949477,
+        "gdp_growth": 4.179882499,
+        "gdp_per_capita": 41531.9342
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2011.0,
+        "Poverty_Index": 0.26462580676858516,
+        "gdp_growth": 3.925192705,
+        "gdp_per_capita": 46644.77603
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2012.0,
+        "Poverty_Index": 0.24879082131381106,
+        "gdp_growth": 0.418497594,
+        "gdp_per_capita": 43858.36306
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2013.0,
+        "Poverty_Index": 0.26254710787543095,
+        "gdp_growth": 0.437591303,
+        "gdp_per_capita": 46285.76407
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2014.0,
+        "Poverty_Index": 0.27205738775868205,
+        "gdp_growth": 2.209543431,
+        "gdp_per_capita": 47959.99327
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2015.0,
+        "Poverty_Index": 0.2330976160460054,
+        "gdp_growth": 1.491931528,
+        "gdp_per_capita": 41086.72967
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2016.0,
+        "Poverty_Index": 0.23889175428322007,
+        "gdp_growth": 2.229999868,
+        "gdp_per_capita": 42107.51727
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2017.0,
+        "Poverty_Index": 0.252695307714187,
+        "gdp_growth": 2.680231114,
+        "gdp_per_capita": 44542.2952
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2018.0,
+        "Poverty_Index": 0.2719875471112505,
+        "gdp_growth": 1.086024514,
+        "gdp_per_capita": 47950.18081
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2019.0,
+        "Poverty_Index": 0.2654401976751082,
+        "gdp_growth": 1.055508247,
+        "gdp_per_capita": 46794.89929
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2020.0,
+        "Poverty_Index": 0.26204541878111876,
+        "gdp_growth": -4.569616717,
+        "gdp_per_capita": 46208.42947
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2010.0,
+        "Poverty_Index": 0.15142670153177212,
+        "gdp_growth": -5.478627432,
+        "gdp_per_capita": 26690.60742
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2011.0,
+        "Poverty_Index": 0.14434005317580503,
+        "gdp_growth": -10.14931483,
+        "gdp_per_capita": 25450.53412
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2012.0,
+        "Poverty_Index": 0.12433879412037636,
+        "gdp_growth": -7.086696786,
+        "gdp_per_capita": 21914.25173
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2013.0,
+        "Poverty_Index": 0.12364493750078355,
+        "gdp_growth": -2.515997222,
+        "gdp_per_capita": 21781.59535
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2014.0,
+        "Poverty_Index": 0.12258549605520262,
+        "gdp_growth": 0.475695947,
+        "gdp_per_capita": 21587.95755
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2015.0,
+        "Poverty_Index": 0.10267821378022925,
+        "gdp_growth": -0.19608763,
+        "gdp_per_capita": 18076.60676
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2016.0,
+        "Poverty_Index": 0.10174056516717955,
+        "gdp_growth": -0.487173294,
+        "gdp_per_capita": 17911.79938
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2017.0,
+        "Poverty_Index": 0.10529898945904388,
+        "gdp_growth": 1.09214912,
+        "gdp_per_capita": 18536.19072
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2018.0,
+        "Poverty_Index": 0.11216986940442207,
+        "gdp_growth": 1.668428636,
+        "gdp_per_capita": 19747.34258
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2019.0,
+        "Poverty_Index": 0.10869440593838217,
+        "gdp_growth": 1.803595256,
+        "gdp_per_capita": 19133.75776
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2020.0,
+        "Poverty_Index": 0.09999325306427481,
+        "gdp_growth": -9.019129085,
+        "gdp_per_capita": 17622.541
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2010.0,
+        "Poverty_Index": 0.07518957427487401,
+        "gdp_growth": 1.083118668,
+        "gdp_per_capita": 13223.083
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2011.0,
+        "Poverty_Index": 0.08096373080609204,
+        "gdp_growth": 1.860155072,
+        "gdp_per_capita": 14240.2575
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2012.0,
+        "Poverty_Index": 0.07383439522724397,
+        "gdp_growth": -1.257749507,
+        "gdp_per_capita": 12989.18028
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2013.0,
+        "Poverty_Index": 0.07801447769685475,
+        "gdp_growth": 1.806363928,
+        "gdp_per_capita": 13719.95054
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2014.0,
+        "Poverty_Index": 0.08132562456664862,
+        "gdp_growth": 4.223725539,
+        "gdp_per_capita": 14298.83367
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2015.0,
+        "Poverty_Index": 0.07237583948586805,
+        "gdp_growth": 3.703259936,
+        "gdp_per_capita": 12720.71202
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2016.0,
+        "Poverty_Index": 0.07454792293015627,
+        "gdp_growth": 2.191960369,
+        "gdp_per_capita": 13107.37791
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2017.0,
+        "Poverty_Index": 0.08316718610596077,
+        "gdp_growth": 4.268557419,
+        "gdp_per_capita": 14623.69665
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2018.0,
+        "Poverty_Index": 0.09340241207537082,
+        "gdp_growth": 5.359496489,
+        "gdp_per_capita": 16427.37276
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2019.0,
+        "Poverty_Index": 0.09513926609853386,
+        "gdp_growth": 4.554063072,
+        "gdp_per_capita": 16735.65978
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2020.0,
+        "Poverty_Index": 0.090744222771137,
+        "gdp_growth": -4.675686993,
+        "gdp_per_capita": 15980.74089
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2010.0,
+        "Poverty_Index": 0.24522879011959367,
+        "gdp_growth": -2.832774915,
+        "gdp_per_capita": 43237.07295
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2011.0,
+        "Poverty_Index": 0.2706620953505801,
+        "gdp_growth": 1.845779156,
+        "gdp_per_capita": 47714.59223
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2012.0,
+        "Poverty_Index": 0.2609103883475007,
+        "gdp_growth": 1.063636607,
+        "gdp_per_capita": 45995.54788
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2013.0,
+        "Poverty_Index": 0.2825425983852797,
+        "gdp_growth": 4.55246032,
+        "gdp_per_capita": 49804.983
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2014.0,
+        "Poverty_Index": 0.30954780102225193,
+        "gdp_growth": 1.687215018,
+        "gdp_per_capita": 54576.74481
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2015.0,
+        "Poverty_Index": 0.3003734240659529,
+        "gdp_growth": 4.436663719,
+        "gdp_per_capita": 52951.68151
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2016.0,
+        "Poverty_Index": 0.35160533929372395,
+        "gdp_growth": 6.303687107,
+        "gdp_per_capita": 61987.92636
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2017.0,
+        "Poverty_Index": 0.40837440790778023,
+        "gdp_growth": 4.194948829,
+        "gdp_per_capita": 72010.14903
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2018.0,
+        "Poverty_Index": 0.4223220686774639,
+        "gdp_growth": 4.892180731,
+        "gdp_per_capita": 74469.80406
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2019.0,
+        "Poverty_Index": 0.39096190780205375,
+        "gdp_growth": 2.434823,
+        "gdp_per_capita": 68941.46223
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2020.0,
+        "Poverty_Index": 0.3360416558839221,
+        "gdp_growth": -6.50391225,
+        "gdp_per_capita": 59270.18005
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2010.0,
+        "Poverty_Index": 0.2757235375102302,
+        "gdp_growth": 1.755080743,
+        "gdp_per_capita": 48607.94052
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2011.0,
+        "Poverty_Index": 0.2955543455578972,
+        "gdp_growth": 1.068526654,
+        "gdp_per_capita": 52108.83323
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2012.0,
+        "Poverty_Index": 0.27808579905473957,
+        "gdp_growth": -0.052354785,
+        "gdp_per_capita": 49028.82739
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2013.0,
+        "Poverty_Index": 0.29221081656687536,
+        "gdp_growth": 1.267014661,
+        "gdp_per_capita": 51518.3881
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2014.0,
+        "Poverty_Index": 0.31501565027570927,
+        "gdp_growth": 8.713697808,
+        "gdp_per_capita": 55525.89725
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2015.0,
+        "Poverty_Index": 0.3518423039438097,
+        "gdp_growth": 25.17624519,
+        "gdp_per_capita": 61987.551
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2016.0,
+        "Poverty_Index": 0.3562608430330556,
+        "gdp_growth": 2.042232527,
+        "gdp_per_capita": 62818.96636
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2017.0,
+        "Poverty_Index": 0.3947857865220691,
+        "gdp_growth": 8.940012772,
+        "gdp_per_capita": 69601.68388
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2018.0,
+        "Poverty_Index": 0.44843792141284744,
+        "gdp_growth": 9.0301611,
+        "gdp_per_capita": 79068.97461
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2019.0,
+        "Poverty_Index": 0.4586863575583161,
+        "gdp_growth": 4.917006978,
+        "gdp_per_capita": 80886.61574
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2020.0,
+        "Poverty_Index": 0.4835262973400448,
+        "gdp_growth": 5.866975509,
+        "gdp_per_capita": 85267.76474
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2010.0,
+        "Poverty_Index": 0.1747427877300105,
+        "gdp_growth": 5.684707293,
+        "gdp_per_capita": 30780.02382
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2011.0,
+        "Poverty_Index": 0.19171637331604247,
+        "gdp_growth": 5.542590001,
+        "gdp_per_capita": 33775.512
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2012.0,
+        "Poverty_Index": 0.18540343789903935,
+        "gdp_growth": 2.822996205,
+        "gdp_per_capita": 32667.60687
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2013.0,
+        "Poverty_Index": 0.20714322672095356,
+        "gdp_growth": 4.777202349,
+        "gdp_per_capita": 36499.45611
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2014.0,
+        "Poverty_Index": 0.21477515488719906,
+        "gdp_growth": 4.124746861,
+        "gdp_per_capita": 37847.64994
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2015.0,
+        "Poverty_Index": 0.2031955881808052,
+        "gdp_growth": 2.279679419,
+        "gdp_per_capita": 35808.43643
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2016.0,
+        "Poverty_Index": 0.21184740628063065,
+        "gdp_growth": 4.462753818,
+        "gdp_per_capita": 37330.2618
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2017.0,
+        "Poverty_Index": 0.23136266703993788,
+        "gdp_growth": 4.377044428,
+        "gdp_per_capita": 40774.12961
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2018.0,
+        "Poverty_Index": 0.23866425717866563,
+        "gdp_growth": 3.983424594,
+        "gdp_per_capita": 42063.45313
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2019.0,
+        "Poverty_Index": 0.2493597021688057,
+        "gdp_growth": 3.77358981,
+        "gdp_per_capita": 43951.24773
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2020.0,
+        "Poverty_Index": 0.25051829364435024,
+        "gdp_growth": -2.153428489,
+        "gdp_per_capita": 44168.94364
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2010.0,
+        "Poverty_Index": 0.20427694816094297,
+        "gdp_growth": 1.713295839,
+        "gdp_per_capita": 36000.52012
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2011.0,
+        "Poverty_Index": 0.21899010243886782,
+        "gdp_growth": 0.707333347,
+        "gdp_per_capita": 38599.06221
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2012.0,
+        "Poverty_Index": 0.19885087853250386,
+        "gdp_growth": -2.980905768,
+        "gdp_per_capita": 35053.52624
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2013.0,
+        "Poverty_Index": 0.201678684775087,
+        "gdp_growth": -1.841065451,
+        "gdp_per_capita": 35549.9747
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2014.0,
+        "Poverty_Index": 0.20152310447273672,
+        "gdp_growth": -0.004547542,
+        "gdp_per_capita": 35518.41529
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2015.0,
+        "Poverty_Index": 0.17156493551633717,
+        "gdp_growth": 0.778304351,
+        "gdp_per_capita": 30230.2263
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2016.0,
+        "Poverty_Index": 0.1755921193719099,
+        "gdp_growth": 1.293462732,
+        "gdp_per_capita": 30939.71425
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2017.0,
+        "Poverty_Index": 0.18345674354183547,
+        "gdp_growth": 1.667859041,
+        "gdp_per_capita": 32326.67421
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2018.0,
+        "Poverty_Index": 0.1963600692631721,
+        "gdp_growth": 0.925810941,
+        "gdp_per_capita": 34605.26273
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2019.0,
+        "Poverty_Index": 0.19089266730776375,
+        "gdp_growth": 0.410278294,
+        "gdp_per_capita": 33641.63375
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2020.0,
+        "Poverty_Index": 0.17985160968323546,
+        "gdp_growth": -8.9385925,
+        "gdp_per_capita": 31714.22095
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.0649068002423323,
+        "gdp_growth": -4.470941885,
+        "gdp_per_capita": 11420.994
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.07586502644940261,
+        "gdp_growth": 2.564422968,
+        "gdp_per_capita": 13338.96224
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.07880264982233824,
+        "gdp_growth": 7.037317185,
+        "gdp_per_capita": 13847.33794
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.08531354405970544,
+        "gdp_growth": 2.010744815,
+        "gdp_per_capita": 15007.49186
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.08935814542341455,
+        "gdp_growth": 1.900096243,
+        "gdp_per_capita": 15721.45233
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.07838628822505242,
+        "gdp_growth": 3.885027277,
+        "gdp_per_capita": 13780.91355
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.0814335216559304,
+        "gdp_growth": 2.367609543,
+        "gdp_per_capita": 14322.02268
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.08900709814091239,
+        "gdp_growth": 3.31308889,
+        "gdp_per_capita": 15656.34749
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.101482804999808,
+        "gdp_growth": 3.989480387,
+        "gdp_per_capita": 17856.30712
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.10186345434309903,
+        "gdp_growth": 2.484326355,
+        "gdp_per_capita": 17926.84159
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.10064940546281839,
+        "gdp_growth": -3.618565992,
+        "gdp_per_capita": 17726.25294
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2010.0,
+        "Poverty_Index": 0.06819478923132985,
+        "gdp_growth": 1.651240653,
+        "gdp_per_capita": 11987.50841
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2011.0,
+        "Poverty_Index": 0.08179129386565355,
+        "gdp_growth": 6.03900816,
+        "gdp_per_capita": 14376.94786
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2012.0,
+        "Poverty_Index": 0.08171113003296797,
+        "gdp_growth": 3.843864749,
+        "gdp_per_capita": 14367.70942
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2013.0,
+        "Poverty_Index": 0.08942551864114853,
+        "gdp_growth": 3.550072843,
+        "gdp_per_capita": 15729.65247
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2014.0,
+        "Poverty_Index": 0.09408002027066172,
+        "gdp_growth": 3.537009879,
+        "gdp_per_capita": 16551.0182
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2015.0,
+        "Poverty_Index": 0.08106766000302273,
+        "gdp_growth": 2.024583955,
+        "gdp_per_capita": 14258.22933
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2016.0,
+        "Poverty_Index": 0.08526689933103533,
+        "gdp_growth": 2.518828273,
+        "gdp_per_capita": 14998.12506
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2017.0,
+        "Poverty_Index": 0.09574808726373468,
+        "gdp_growth": 4.282596951,
+        "gdp_per_capita": 16843.69965
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2018.0,
+        "Poverty_Index": 0.1089661354759901,
+        "gdp_growth": 3.993310328,
+        "gdp_per_capita": 19176.81215
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2019.0,
+        "Poverty_Index": 0.11123436866391238,
+        "gdp_growth": 4.573771737,
+        "gdp_per_capita": 19575.76848
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2020.0,
+        "Poverty_Index": 0.11490290249559602,
+        "gdp_growth": -0.132431461,
+        "gdp_per_capita": 20233.64135
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2010.0,
+        "Poverty_Index": 0.628065203787482,
+        "gdp_growth": 3.760413593,
+        "gdp_per_capita": 110777.9079
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2011.0,
+        "Poverty_Index": 0.67388458960529,
+        "gdp_growth": 1.044298695,
+        "gdp_per_capita": 118869.2999
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2012.0,
+        "Poverty_Index": 0.6383138901400396,
+        "gdp_growth": 1.64990203,
+        "gdp_per_capita": 112591.1162
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2013.0,
+        "Poverty_Index": 0.680126722870268,
+        "gdp_growth": 3.171790499,
+        "gdp_per_capita": 119966.0349
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2014.0,
+        "Poverty_Index": 0.7002271505161201,
+        "gdp_growth": 2.623086016,
+        "gdp_per_capita": 123514.1967
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2015.0,
+        "Poverty_Index": 0.5976809180289078,
+        "gdp_growth": 2.269784484,
+        "gdp_per_capita": 105419.6085
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2016.0,
+        "Poverty_Index": 0.605689345934473,
+        "gdp_growth": 4.978190437,
+        "gdp_per_capita": 106826.7264
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2017.0,
+        "Poverty_Index": 0.6231783450419964,
+        "gdp_growth": 1.317187663,
+        "gdp_per_capita": 109921.0314
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2018.0,
+        "Poverty_Index": 0.6644225842474267,
+        "gdp_growth": 2.00437712,
+        "gdp_per_capita": 117197.4817
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2019.0,
+        "Poverty_Index": 0.6418911729150738,
+        "gdp_growth": 3.283806756,
+        "gdp_per_capita": 113218.7133
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2020.0,
+        "Poverty_Index": 0.657671330066918,
+        "gdp_growth": -1.776240229,
+        "gdp_per_capita": 116014.6025
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2010.0,
+        "Poverty_Index": 0.12384666247624838,
+        "gdp_growth": 5.543639385,
+        "gdp_per_capita": 21799.17426
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2011.0,
+        "Poverty_Index": 0.13146893629069875,
+        "gdp_growth": 0.467050856,
+        "gdp_per_capita": 23155.55479
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2012.0,
+        "Poverty_Index": 0.1279567836195401,
+        "gdp_growth": 4.117707299,
+        "gdp_per_capita": 22527.63676
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2013.0,
+        "Poverty_Index": 0.14068749739405295,
+        "gdp_growth": 5.473355695,
+        "gdp_per_capita": 24771.07658
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2014.0,
+        "Poverty_Index": 0.15195358243148158,
+        "gdp_growth": 7.633538112,
+        "gdp_per_capita": 26754.26845
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2015.0,
+        "Poverty_Index": 0.14159291466143045,
+        "gdp_growth": 9.608132811,
+        "gdp_per_capita": 24921.60368
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2016.0,
+        "Poverty_Index": 0.14616905273263534,
+        "gdp_growth": 4.090917429,
+        "gdp_per_capita": 25741.44606
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2017.0,
+        "Poverty_Index": 0.1604399802529001,
+        "gdp_growth": 8.119425289,
+        "gdp_per_capita": 28250.69777
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2018.0,
+        "Poverty_Index": 0.17412587066807855,
+        "gdp_growth": 5.179224796,
+        "gdp_per_capita": 30672.29224
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2019.0,
+        "Poverty_Index": 0.17137573550838825,
+        "gdp_growth": 5.539566337,
+        "gdp_per_capita": 30186.19596
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2020.0,
+        "Poverty_Index": 0.15817399386430248,
+        "gdp_growth": -7.001129615,
+        "gdp_per_capita": 27884.64283
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2010.0,
+        "Poverty_Index": 0.03817901069550376,
+        "gdp_growth": 2.734331082,
+        "gdp_per_capita": 6688.4824
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2011.0,
+        "Poverty_Index": 0.04181469016706387,
+        "gdp_growth": 3.228451021,
+        "gdp_per_capita": 7328.932252
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2012.0,
+        "Poverty_Index": 0.03753318436080054,
+        "gdp_growth": -2.723790771,
+        "gdp_per_capita": 6586.721279
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2013.0,
+        "Poverty_Index": 0.04101119156344796,
+        "gdp_growth": 3.548979912,
+        "gdp_per_capita": 7186.429787
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2014.0,
+        "Poverty_Index": 0.042076409883188,
+        "gdp_growth": 1.783698581,
+        "gdp_per_capita": 7378.345289
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2015.0,
+        "Poverty_Index": 0.03720007828285104,
+        "gdp_growth": 3.390381397,
+        "gdp_per_capita": 6514.272695
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2016.0,
+        "Poverty_Index": 0.04011108248658834,
+        "gdp_growth": 2.949280321,
+        "gdp_per_capita": 7028.936577
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2017.0,
+        "Poverty_Index": 0.044412773470695145,
+        "gdp_growth": 4.716465276,
+        "gdp_per_capita": 7784.06529
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2018.0,
+        "Poverty_Index": 0.05043483401525761,
+        "gdp_growth": 5.077888811,
+        "gdp_per_capita": 8845.914219
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2019.0,
+        "Poverty_Index": 0.05078883735524859,
+        "gdp_growth": 4.062944992,
+        "gdp_per_capita": 8910.650834
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2020.0,
+        "Poverty_Index": 0.043553227735758315,
+        "gdp_growth": -15.30689376,
+        "gdp_per_capita": 7677.152226
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2010.0,
+        "Poverty_Index": 0.288990923775684,
+        "gdp_growth": 1.342739336,
+        "gdp_per_capita": 50950.03434
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2011.0,
+        "Poverty_Index": 0.30718068848396024,
+        "gdp_growth": 1.551189312,
+        "gdp_per_capita": 54159.34661
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2012.0,
+        "Poverty_Index": 0.2839907514248578,
+        "gdp_growth": -1.030353991,
+        "gdp_per_capita": 50073.00566
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2013.0,
+        "Poverty_Index": 0.2959654789443314,
+        "gdp_growth": -0.130175288,
+        "gdp_per_capita": 52184.06185
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2014.0,
+        "Poverty_Index": 0.29964666979771826,
+        "gdp_growth": 1.423395395,
+        "gdp_per_capita": 52830.17423
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2015.0,
+        "Poverty_Index": 0.25627301537651725,
+        "gdp_growth": 1.959169721,
+        "gdp_per_capita": 45175.23189
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2016.0,
+        "Poverty_Index": 0.2609944121546015,
+        "gdp_growth": 2.191713719,
+        "gdp_per_capita": 46007.85292
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2017.0,
+        "Poverty_Index": 0.275438123460588,
+        "gdp_growth": 2.910902513,
+        "gdp_per_capita": 48554.99228
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2018.0,
+        "Poverty_Index": 0.30072651936522304,
+        "gdp_growth": 2.360915095,
+        "gdp_per_capita": 53018.62936
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2019.0,
+        "Poverty_Index": 0.29764786054023873,
+        "gdp_growth": 1.955588416,
+        "gdp_per_capita": 52476.27325
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2971263827721968,
+        "gdp_growth": -3.798635993,
+        "gdp_per_capita": 52397.11671
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.02622508577875305,
+        "gdp_growth": 3.358750858,
+        "gdp_per_capita": 4577.688755
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.029161326957169324,
+        "gdp_growth": 2.339886045,
+        "gdp_per_capita": 5098.097583
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.0270303130938059,
+        "gdp_growth": -0.456183224,
+        "gdp_per_capita": 4728.308142
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.029978899354310713,
+        "gdp_growth": 2.925257665,
+        "gdp_per_capita": 5241.058345
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.03143106547287906,
+        "gdp_growth": 3.629123513,
+        "gdp_per_capita": 5495.735049
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.027840043466772203,
+        "gdp_growth": 3.85586514,
+        "gdp_per_capita": 4861.553971
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.029459568225487807,
+        "gdp_growth": 2.848205194,
+        "gdp_per_capita": 5149.589074
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.031142407031558007,
+        "gdp_growth": 1.081772738,
+        "gdp_per_capita": 5450.492881
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.03489547293241417,
+        "gdp_growth": 2.88059671,
+        "gdp_per_capita": 6108.740108
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.0346911789975254,
+        "gdp_growth": 3.910419538,
+        "gdp_per_capita": 6070.388054
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.033707894586644145,
+        "gdp_growth": -5.208444057,
+        "gdp_per_capita": 5917.262575
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2010.0,
+        "Poverty_Index": 0.49720911013731584,
+        "gdp_growth": 0.701833824,
+        "gdp_per_capita": 87693.79007
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2011.0,
+        "Poverty_Index": 0.5703551351582319,
+        "gdp_growth": 0.981434479,
+        "gdp_per_capita": 100600.5624
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2012.0,
+        "Poverty_Index": 0.5756108576400969,
+        "gdp_growth": 2.703109471,
+        "gdp_per_capita": 101524.1419
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2013.0,
+        "Poverty_Index": 0.5834629054675489,
+        "gdp_growth": 1.034072914,
+        "gdp_per_capita": 102913.4508
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2014.0,
+        "Poverty_Index": 0.5500720291792485,
+        "gdp_growth": 1.969544301,
+        "gdp_per_capita": 97019.18275
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2015.0,
+        "Poverty_Index": 0.42163734241324125,
+        "gdp_growth": 1.967128438,
+        "gdp_per_capita": 74355.51586
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2016.0,
+        "Poverty_Index": 0.3995533439459321,
+        "gdp_growth": 1.071558977,
+        "gdp_per_capita": 70460.56053
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2017.0,
+        "Poverty_Index": 0.42810923409117213,
+        "gdp_growth": 2.323290208,
+        "gdp_per_capita": 75496.75406
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2018.0,
+        "Poverty_Index": 0.4664654424134927,
+        "gdp_growth": 1.118828479,
+        "gdp_per_capita": 82267.80932
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2019.0,
+        "Poverty_Index": 0.42935298027253055,
+        "gdp_growth": 0.745798219,
+        "gdp_per_capita": 75719.7529
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2020.0,
+        "Poverty_Index": 0.3817880178657881,
+        "gdp_growth": -0.717182669,
+        "gdp_per_capita": 67329.67779
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2010.0,
+        "Poverty_Index": 0.07176597149560834,
+        "gdp_growth": 3.740521281,
+        "gdp_per_capita": 12613.011
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2011.0,
+        "Poverty_Index": 0.07895637663105669,
+        "gdp_growth": 4.757635638,
+        "gdp_per_capita": 13879.56099
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2012.0,
+        "Poverty_Index": 0.07447966175263002,
+        "gdp_growth": 1.324896305,
+        "gdp_per_capita": 13097.27085
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2013.0,
+        "Poverty_Index": 0.07787277050400261,
+        "gdp_growth": 1.125763386,
+        "gdp_per_capita": 13696.4663
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2014.0,
+        "Poverty_Index": 0.08115891790884835,
+        "gdp_growth": 3.378581715,
+        "gdp_per_capita": 14271.30585
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2015.0,
+        "Poverty_Index": 0.0715766537503005,
+        "gdp_growth": 4.23632685,
+        "gdp_per_capita": 12578.49547
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2016.0,
+        "Poverty_Index": 0.07082009483567028,
+        "gdp_growth": 3.141725778,
+        "gdp_per_capita": 12447.43959
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2017.0,
+        "Poverty_Index": 0.07887298133768002,
+        "gdp_growth": 4.830656005,
+        "gdp_per_capita": 13864.68176
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2018.0,
+        "Poverty_Index": 0.08796832055236517,
+        "gdp_growth": 5.353703355,
+        "gdp_per_capita": 15468.48222
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2019.0,
+        "Poverty_Index": 0.08945511080025395,
+        "gdp_growth": 4.744950156,
+        "gdp_per_capita": 15732.20313
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2020.0,
+        "Poverty_Index": 0.08929929297950658,
+        "gdp_growth": -2.540658682,
+        "gdp_per_capita": 15720.99466
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2010.0,
+        "Poverty_Index": 0.12776259497087358,
+        "gdp_growth": 1.737625476,
+        "gdp_per_capita": 22498.69086
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2011.0,
+        "Poverty_Index": 0.13161923827902458,
+        "gdp_growth": -1.696164781,
+        "gdp_per_capita": 23186.91313
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2012.0,
+        "Poverty_Index": 0.11673035965647925,
+        "gdp_growth": -4.057293608,
+        "gdp_per_capita": 20564.88986
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2013.0,
+        "Poverty_Index": 0.1229026104251671,
+        "gdp_growth": -0.922644675,
+        "gdp_per_capita": 21647.04181
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2014.0,
+        "Poverty_Index": 0.12534560523141355,
+        "gdp_growth": 0.792190302,
+        "gdp_per_capita": 22074.30076
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2015.0,
+        "Poverty_Index": 0.10930974353482223,
+        "gdp_growth": 1.792046046,
+        "gdp_per_capita": 19242.36647
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2016.0,
+        "Poverty_Index": 0.11348372260442607,
+        "gdp_growth": 2.019485396,
+        "gdp_per_capita": 19978.40121
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2017.0,
+        "Poverty_Index": 0.12177038574172576,
+        "gdp_growth": 3.506345285,
+        "gdp_per_capita": 21437.3475
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2018.0,
+        "Poverty_Index": 0.13374037240903186,
+        "gdp_growth": 2.849325934,
+        "gdp_per_capita": 23551.04829
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2019.0,
+        "Poverty_Index": 0.1324902164918644,
+        "gdp_growth": 2.682759921,
+        "gdp_per_capita": 23330.81729
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2020.0,
+        "Poverty_Index": 0.1258066232569919,
+        "gdp_growth": -8.442456428,
+        "gdp_per_capita": 22176.29671
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2010.0,
+        "Poverty_Index": 0.046740467148609445,
+        "gdp_growth": -3.90123628,
+        "gdp_per_capita": 8214.076893
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2011.0,
+        "Poverty_Index": 0.05183011706013988,
+        "gdp_growth": 1.906067707,
+        "gdp_per_capita": 9099.217539
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2012.0,
+        "Poverty_Index": 0.04847632819843425,
+        "gdp_growth": 2.040665131,
+        "gdp_per_capita": 8507.104775
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2013.0,
+        "Poverty_Index": 0.05439614848691153,
+        "gdp_growth": 3.770962304,
+        "gdp_per_capita": 9547.852151
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2014.0,
+        "Poverty_Index": 0.05720392756648276,
+        "gdp_growth": 3.608723653,
+        "gdp_per_capita": 10043.67745
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2015.0,
+        "Poverty_Index": 0.05110629204443353,
+        "gdp_growth": 2.953674037,
+        "gdp_per_capita": 8969.148921
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2016.0,
+        "Poverty_Index": 0.05441212287726038,
+        "gdp_growth": 4.702997747,
+        "gdp_per_capita": 9548.587403
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2017.0,
+        "Poverty_Index": 0.061576727097280896,
+        "gdp_growth": 7.319448529,
+        "gdp_per_capita": 10807.00917
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2018.0,
+        "Poverty_Index": 0.07056237118646932,
+        "gdp_growth": 4.474523775,
+        "gdp_per_capita": 12398.98198
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2019.0,
+        "Poverty_Index": 0.07339430051284743,
+        "gdp_growth": 4.188260341,
+        "gdp_per_capita": 12899.34611
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2020.0,
+        "Poverty_Index": 0.07327298636503426,
+        "gdp_growth": -3.930454057,
+        "gdp_per_capita": 12896.08862
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.032752657590065515,
+        "gdp_growth": 0.731044553,
+        "gdp_per_capita": 5735.422857
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.038854044231815946,
+        "gdp_growth": 2.036276689,
+        "gdp_per_capita": 6809.159804
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.03432447789006091,
+        "gdp_growth": -0.681542369,
+        "gdp_per_capita": 6015.945228
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.03855838797534197,
+        "gdp_growth": 2.892636734,
+        "gdp_per_capita": 6755.073675
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.03762312652766561,
+        "gdp_growth": -1.58951032,
+        "gdp_per_capita": 6600.056809
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.03193639136619259,
+        "gdp_growth": 1.806059265,
+        "gdp_per_capita": 5588.980728
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.03295444283831391,
+        "gdp_growth": 3.338586765,
+        "gdp_per_capita": 5765.200762
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.035927210251435915,
+        "gdp_growth": 2.101163847,
+        "gdp_per_capita": 6292.543629
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.04139704072123891,
+        "gdp_growth": 4.495121293,
+        "gdp_per_capita": 7252.401858
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.04232890006656411,
+        "gdp_growth": 4.331734906,
+        "gdp_per_capita": 7417.203649
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.04398089124538743,
+        "gdp_growth": -0.944596516,
+        "gdp_per_capita": 7720.510572
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.1334860895625652,
+        "gdp_growth": 1.343748472,
+        "gdp_per_capita": 23509.54314
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.14246548753137545,
+        "gdp_growth": 0.861327733,
+        "gdp_per_capita": 25095.13229
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.12852550883820457,
+        "gdp_growth": -2.639438757,
+        "gdp_per_capita": 22643.10025
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.13338269180136467,
+        "gdp_growth": -1.029282772,
+        "gdp_per_capita": 23496.6025
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.13750150675448397,
+        "gdp_growth": 2.768158831,
+        "gdp_per_capita": 24214.92207
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.1186054970403889,
+        "gdp_growth": 2.210081607,
+        "gdp_per_capita": 20881.76693
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.12304881699608365,
+        "gdp_growth": 3.191852518,
+        "gdp_per_capita": 21663.64341
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.13322632944323975,
+        "gdp_growth": 4.815380632,
+        "gdp_per_capita": 23455.94473
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.14822842392678276,
+        "gdp_growth": 4.422521568,
+        "gdp_per_capita": 26104.10279
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.14730035288737878,
+        "gdp_growth": 3.250531336,
+        "gdp_per_capita": 25942.95477
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.1447935879155142,
+        "gdp_growth": -4.229261389,
+        "gdp_per_capita": 25517.33067
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2010.0,
+        "Poverty_Index": 0.17310135652320802,
+        "gdp_growth": 0.163010231,
+        "gdp_per_capita": 30502.71971
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2011.0,
+        "Poverty_Index": 0.17951378571768342,
+        "gdp_growth": -0.814373455,
+        "gdp_per_capita": 31636.44631
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2012.0,
+        "Poverty_Index": 0.1607174604970708,
+        "gdp_growth": -2.959441302,
+        "gdp_per_capita": 28324.42934
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2013.0,
+        "Poverty_Index": 0.16490267427671979,
+        "gdp_growth": -1.435394259,
+        "gdp_per_capita": 29059.54795
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2014.0,
+        "Poverty_Index": 0.16721653270863254,
+        "gdp_growth": 1.383907943,
+        "gdp_per_capita": 29461.55033
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2015.0,
+        "Poverty_Index": 0.14611238613212513,
+        "gdp_growth": 3.83517266,
+        "gdp_per_capita": 25732.01836
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2016.0,
+        "Poverty_Index": 0.15048462232353116,
+        "gdp_growth": 3.03130133,
+        "gdp_per_capita": 26505.34322
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2017.0,
+        "Poverty_Index": 0.15952410981491633,
+        "gdp_growth": 2.973641191,
+        "gdp_per_capita": 28100.58624
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2018.0,
+        "Poverty_Index": 0.1722614223275931,
+        "gdp_growth": 2.288785676,
+        "gdp_per_capita": 30349.7521
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2019.0,
+        "Poverty_Index": 0.16775678402514987,
+        "gdp_growth": 2.085191421,
+        "gdp_per_capita": 29555.3157
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2020.0,
+        "Poverty_Index": 0.15347043846301303,
+        "gdp_growth": -10.82288649,
+        "gdp_per_capita": 27063.19392
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2010.0,
+        "Poverty_Index": 0.2999243189742429,
+        "gdp_growth": 5.952107008,
+        "gdp_per_capita": 52869.04429
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2011.0,
+        "Poverty_Index": 0.344583289716791,
+        "gdp_growth": 3.195333235,
+        "gdp_per_capita": 60755.75955
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2012.0,
+        "Poverty_Index": 0.3291328410548831,
+        "gdp_growth": -0.588304569,
+        "gdp_per_capita": 58037.82132
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2013.0,
+        "Poverty_Index": 0.3466613485717909,
+        "gdp_growth": 1.187775716,
+        "gdp_per_capita": 61126.9432
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2014.0,
+        "Poverty_Index": 0.34040898434085964,
+        "gdp_growth": 2.657798275,
+        "gdp_per_capita": 60020.36046
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2015.0,
+        "Poverty_Index": 0.29240518852002756,
+        "gdp_growth": 4.489281588,
+        "gdp_per_capita": 51545.48361
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2016.0,
+        "Poverty_Index": 0.29475283032866606,
+        "gdp_growth": 2.070593151,
+        "gdp_per_capita": 51965.15715
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2017.0,
+        "Poverty_Index": 0.30510903757197405,
+        "gdp_growth": 2.567924525,
+        "gdp_per_capita": 53791.50873
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2018.0,
+        "Poverty_Index": 0.3096209226750372,
+        "gdp_growth": 1.950022846,
+        "gdp_per_capita": 54589.06039
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2019.0,
+        "Poverty_Index": 0.29460596427841657,
+        "gdp_growth": 1.986195874,
+        "gdp_per_capita": 51939.42974
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2964417737313414,
+        "gdp_growth": -2.948127879,
+        "gdp_per_capita": 52274.40879
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2010.0,
+        "Poverty_Index": 0.4373038269139921,
+        "gdp_growth": 3.268101656,
+        "gdp_per_capita": 77117.12601
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2011.0,
+        "Poverty_Index": 0.517400401038437,
+        "gdp_growth": 1.920445985,
+        "gdp_per_capita": 91254.03476
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2012.0,
+        "Poverty_Index": 0.49072059911326493,
+        "gdp_growth": 1.217193657,
+        "gdp_per_capita": 86547.67089
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2013.0,
+        "Poverty_Index": 0.49957904381316315,
+        "gdp_growth": 1.821667791,
+        "gdp_per_capita": 88109.48675
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2014.0,
+        "Poverty_Index": 0.5085137165586903,
+        "gdp_growth": 2.446845157,
+        "gdp_per_capita": 89684.70758
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2015.0,
+        "Poverty_Index": 0.4806869542916912,
+        "gdp_growth": 1.657768711,
+        "gdp_per_capita": 84776.14217
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2016.0,
+        "Poverty_Index": 0.47104176878300713,
+        "gdp_growth": 2.045186469,
+        "gdp_per_capita": 83073.28008
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2017.0,
+        "Poverty_Index": 0.4726159404412609,
+        "gdp_growth": 1.584819616,
+        "gdp_per_capita": 83352.08865
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2018.0,
+        "Poverty_Index": 0.4898395746768019,
+        "gdp_growth": 2.916905098,
+        "gdp_per_capita": 86388.40495
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2019.0,
+        "Poverty_Index": 0.48384560981425234,
+        "gdp_growth": 1.210992207,
+        "gdp_per_capita": 85334.51946
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2020.0,
+        "Poverty_Index": 0.49378811094654956,
+        "gdp_growth": -2.392826042,
+        "gdp_per_capita": 87097.03645
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2010.0,
+        "Poverty_Index": 0.061226745537408464,
+        "gdp_growth": 8.427104323,
+        "gdp_per_capita": 10742.77498
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2011.0,
+        "Poverty_Index": 0.06510284776287181,
+        "gdp_growth": 11.20011058,
+        "gdp_per_capita": 11420.55546
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2012.0,
+        "Poverty_Index": 0.06714718187979704,
+        "gdp_growth": 4.788492711,
+        "gdp_per_capita": 11795.63346
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2013.0,
+        "Poverty_Index": 0.07183612250314864,
+        "gdp_growth": 8.485816997,
+        "gdp_per_capita": 12614.78161
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2014.0,
+        "Poverty_Index": 0.06920256912719983,
+        "gdp_growth": 4.939715161,
+        "gdp_per_capita": 12157.99043
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2015.0,
+        "Poverty_Index": 0.06269034371925179,
+        "gdp_growth": 6.084486904,
+        "gdp_per_capita": 11006.27952
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2016.0,
+        "Poverty_Index": 0.062022493195996016,
+        "gdp_growth": 3.323084208,
+        "gdp_per_capita": 10894.60338
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2017.0,
+        "Poverty_Index": 0.060347369068056995,
+        "gdp_growth": 7.501997489,
+        "gdp_per_capita": 10589.66772
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2018.0,
+        "Poverty_Index": 0.05385624243199455,
+        "gdp_growth": 2.979885235,
+        "gdp_per_capita": 9454.348443
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2019.0,
+        "Poverty_Index": 0.05194359981140394,
+        "gdp_growth": 0.889585161,
+        "gdp_per_capita": 9121.515167
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2020.0,
+        "Poverty_Index": 0.04863940199435042,
+        "gdp_growth": 1.793551396,
+        "gdp_per_capita": 8536.43332
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2010.0,
+        "Poverty_Index": 0.017738098484477417,
+        "gdp_growth": 4.092004367,
+        "gdp_per_capita": 3078.429982
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2011.0,
+        "Poverty_Index": 0.021305013715210448,
+        "gdp_growth": 5.445280813,
+        "gdp_per_capita": 3704.824973
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2012.0,
+        "Poverty_Index": 0.022937937264592558,
+        "gdp_growth": 0.152314965,
+        "gdp_per_capita": 4004.804396
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2013.0,
+        "Poverty_Index": 0.02397327569234486,
+        "gdp_growth": 0.045439094,
+        "gdp_per_capita": 4187.739845
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2014.0,
+        "Poverty_Index": 0.017707120778736693,
+        "gdp_growth": -10.07889498,
+        "gdp_per_capita": 3104.643206
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2015.0,
+        "Poverty_Index": 0.012157459441789328,
+        "gdp_growth": -9.772987211,
+        "gdp_per_capita": 2124.662319
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2016.0,
+        "Poverty_Index": 0.012669601702146796,
+        "gdp_growth": 2.440981945,
+        "gdp_per_capita": 2187.73051
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2017.0,
+        "Poverty_Index": 0.015222093522643044,
+        "gdp_growth": 2.359972281,
+        "gdp_per_capita": 2638.326055
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2018.0,
+        "Poverty_Index": 0.017833203245325814,
+        "gdp_growth": 3.488362342,
+        "gdp_per_capita": 3096.561697
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2019.0,
+        "Poverty_Index": 0.02103079236238796,
+        "gdp_growth": 3.199503862,
+        "gdp_per_capita": 3661.456204
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2020.0,
+        "Poverty_Index": 0.021299336387032294,
+        "gdp_growth": -4.000006101,
+        "gdp_per_capita": 3724.938437
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2010.0,
+        "Poverty_Index": 0.22518262302202618,
+        "gdp_growth": 2.131438198,
+        "gdp_per_capita": 39688.61497
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2011.0,
+        "Poverty_Index": 0.23988710581769634,
+        "gdp_growth": 1.457563391,
+        "gdp_per_capita": 42284.88449
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2012.0,
+        "Poverty_Index": 0.24216491132525686,
+        "gdp_growth": 1.469887521,
+        "gdp_per_capita": 42686.80005
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2013.0,
+        "Poverty_Index": 0.24799030700097613,
+        "gdp_growth": 1.890018342,
+        "gdp_per_capita": 43713.81412
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2014.0,
+        "Poverty_Index": 0.2710883071372032,
+        "gdp_growth": 2.991164814,
+        "gdp_per_capita": 47787.2413
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2015.0,
+        "Poverty_Index": 0.25758106311985185,
+        "gdp_growth": 2.622596679,
+        "gdp_per_capita": 45404.56777
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2016.0,
+        "Poverty_Index": 0.23544686923982258,
+        "gdp_growth": 2.263463538,
+        "gdp_per_capita": 41499.5557
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2017.0,
+        "Poverty_Index": 0.23180816330263737,
+        "gdp_growth": 2.134453093,
+        "gdp_per_capita": 40857.75558
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2018.0,
+        "Poverty_Index": 0.2476083712034794,
+        "gdp_growth": 1.650925496,
+        "gdp_per_capita": 43646.95197
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2019.0,
+        "Poverty_Index": 0.24434188362875225,
+        "gdp_growth": 1.671944197,
+        "gdp_per_capita": 43070.49836
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2328034905097091,
+        "gdp_growth": -9.396160006,
+        "gdp_per_capita": 41059.16881
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.13550530010580086,
+        "gdp_growth": 10675.0,
+        "gdp_per_capita": 4.5
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.1815677589120043,
+        "gdp_growth": 14311.0,
+        "gdp_per_capita": 4.3
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.19562848990804743,
+        "gdp_growth": 15421.0,
+        "gdp_per_capita": 4.02
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.2026341726435259,
+        "gdp_growth": 15975.0,
+        "gdp_per_capita": 1.76
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.17882380217881733,
+        "gdp_growth": 14096.0,
+        "gdp_per_capita": 0.74
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.11821379076994527,
+        "gdp_growth": 9313.0,
+        "gdp_per_capita": -1.97
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.11052342858049254,
+        "gdp_growth": 8705.0,
+        "gdp_per_capita": 0.19
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.13606026321925035,
+        "gdp_growth": 10720.0,
+        "gdp_per_capita": 1.83
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.14324900079704292,
+        "gdp_growth": 11287.0,
+        "gdp_per_capita": 2.81
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.1464000638644093,
+        "gdp_growth": 11536.0,
+        "gdp_per_capita": 2.2
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.12937111013858385,
+        "gdp_growth": 10194.0,
+        "gdp_per_capita": -2.65
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2010.0,
+        "Poverty_Index": 0.03115483278951284,
+        "gdp_growth": 2437.0,
+        "gdp_per_capita": 7.1
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2011.0,
+        "Poverty_Index": 0.037532631433544635,
+        "gdp_growth": 2941.0,
+        "gdp_per_capita": 5.82
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2012.0,
+        "Poverty_Index": 0.03881385655292833,
+        "gdp_growth": 3045.0,
+        "gdp_per_capita": -0.59
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2013.0,
+        "Poverty_Index": 0.042365005922565646,
+        "gdp_growth": 3321.0,
+        "gdp_per_capita": 9.04
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2014.0,
+        "Poverty_Index": 0.04193671115250252,
+        "gdp_growth": 3289.0,
+        "gdp_per_capita": 5.0
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2015.0,
+        "Poverty_Index": 0.03507799065338607,
+        "gdp_growth": 2750.0,
+        "gdp_per_capita": -0.34
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2016.0,
+        "Poverty_Index": 0.036347806871293915,
+        "gdp_growth": 2848.0,
+        "gdp_per_capita": 4.65
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2017.0,
+        "Poverty_Index": 0.0440350775103558,
+        "gdp_growth": 3455.0,
+        "gdp_per_capita": 4.18
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2018.0,
+        "Poverty_Index": 0.052927976633277606,
+        "gdp_growth": 4157.0,
+        "gdp_per_capita": 4.08
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2019.0,
+        "Poverty_Index": 0.05606682430469798,
+        "gdp_growth": 4405.0,
+        "gdp_per_capita": 3.55
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2020.0,
+        "Poverty_Index": 0.055632389987105534,
+        "gdp_growth": 4376.0,
+        "gdp_per_capita": -8.28
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2010.0,
+        "Poverty_Index": 0.21449489780729283,
+        "gdp_growth": 16909.0,
+        "gdp_per_capita": 6.72
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2011.0,
+        "Poverty_Index": 0.23475462284366627,
+        "gdp_growth": 18510.0,
+        "gdp_per_capita": 2.67
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2012.0,
+        "Poverty_Index": 0.22192619262604338,
+        "gdp_growth": 17498.0,
+        "gdp_per_capita": 1.32
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2013.0,
+        "Poverty_Index": 0.2317785735875054,
+        "gdp_growth": 18276.0,
+        "gdp_per_capita": 0.63
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2014.0,
+        "Poverty_Index": 0.23741523134679302,
+        "gdp_growth": 18720.0,
+        "gdp_per_capita": 2.7
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2015.0,
+        "Poverty_Index": 0.20792369902999053,
+        "gdp_growth": 16391.0,
+        "gdp_per_capita": 5.17
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2016.0,
+        "Poverty_Index": 0.2100844204828232,
+        "gdp_growth": 16563.0,
+        "gdp_per_capita": 1.94
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2017.0,
+        "Poverty_Index": 0.22303755480307363,
+        "gdp_growth": 17585.0,
+        "gdp_per_capita": 2.94
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2018.0,
+        "Poverty_Index": 0.24712703456080895,
+        "gdp_growth": 19486.0,
+        "gdp_per_capita": 4.03
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2019.0,
+        "Poverty_Index": 0.24580087025182756,
+        "gdp_growth": 19382.0,
+        "gdp_per_capita": 2.51
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2479214066949774,
+        "gdp_growth": 19552.0,
+        "gdp_per_capita": -3.34
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2010.0,
+        "Poverty_Index": 0.253122957127759,
+        "gdp_growth": 19960.0,
+        "gdp_per_capita": 2.43
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2011.0,
+        "Poverty_Index": 0.2773291505395301,
+        "gdp_growth": 21871.0,
+        "gdp_per_capita": 1.76
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2012.0,
+        "Poverty_Index": 0.25197719026555915,
+        "gdp_growth": 19871.0,
+        "gdp_per_capita": -0.79
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2013.0,
+        "Poverty_Index": 0.25530059757393575,
+        "gdp_growth": 20133.0,
+        "gdp_per_capita": -0.05
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2014.0,
+        "Poverty_Index": 0.2522478496638775,
+        "gdp_growth": 19891.0,
+        "gdp_per_capita": 2.26
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2015.0,
+        "Poverty_Index": 0.22615528382505423,
+        "gdp_growth": 17830.0,
+        "gdp_per_capita": 5.39
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2016.0,
+        "Poverty_Index": 0.23557735519317746,
+        "gdp_growth": 18575.0,
+        "gdp_per_capita": 2.54
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2017.0,
+        "Poverty_Index": 0.2617025628645458,
+        "gdp_growth": 20636.0,
+        "gdp_per_capita": 5.17
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2018.0,
+        "Poverty_Index": 0.29701200043514,
+        "gdp_growth": 23424.0,
+        "gdp_per_capita": 3.22
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2019.0,
+        "Poverty_Index": 0.3000640935982787,
+        "gdp_growth": 23665.0,
+        "gdp_per_capita": 3.03
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2020.0,
+        "Poverty_Index": 0.2915023510383277,
+        "gdp_growth": 22993.0,
+        "gdp_per_capita": -5.5
+    }
+]

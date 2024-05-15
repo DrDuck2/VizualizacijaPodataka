@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        #chart-container {
+            position: relative;
+            margin-top: 50px; /* Adjust the top margin as needed */
+            overflow: hidden; /* Ensure the map is contained within the container */
+        }
+        #chart {
+            float: left;
+            margin-top: -50px; /* Compensate for the margin-top of the container */
+        }
+        #legend{
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+        }
+        #slider-container {
+            position: absolute;
+            top: 0;
+            right: 20px;
+            margin-top: 20px; /* Adjust as needed */
+            z-index: 1000; /* Ensure it's above the map */
+        }
+    </style>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <title>Projekt</title>
+</head>
+
+<body>
+    <div id="chart-container">
+        <div id="chart"></div>
+        <div id="legend"></div>
+        <div id="slider-container">
+            <input type="range" min="2010" max="2020" value="2010" class="slider" id="year-slider">
+            <span id="selected-year">2010</span>
+        </div>
+    </div>
+    <div id="graph-container">
+        
+    </div>
+
+    <script>
+        var width = 1200;
+        var height = 1200; // Reduced the height to accommodate the lower position
+
+        var skala = d3.scale.linear()
+            .domain([50000, 800000])
+            .range([0, 6]);
+
+        // Define the projection for Europe map
+        var projection = d3.geo.mercator()
+            .center([10, 50]) // Center of Europe
+            .scale(700) // Scale for Europe map
+            .translate([width / 2, height / 2]);
+
+        var path = d3.geo.path()
+            .projection(projection);
+
+        var svg = d3.select("#chart").append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .style("background", "#f0f0f0") // Light gray background
+            .append("g");
+            var legend = d3.select("#legend").append("svg")
+            .attr("width", 200)
+            .attr("height", height)
+            .attr("class", "legend")
+            .selectAll("g")
+            .data(["0%-19%", "20%-39%", "40%-59%", "60%-79%", "80%-100%"])
+            .enter().append("g")
+            .attr("transform", function(d, i) { return "translate(10," + (i * 20 + 10) + ")"; });
+
+        legend.append("rect")
+            .attr("width", 18)
+            .attr("height", 18)
+            .style("fill", function(d, i) { 
+                return ["red", "orange", "yellow", "lightgreen", "darkgreen"][i];
+            });
+
+        legend.append("text")
+            .attr("x", 24)
+            .attr("y", 9)
+            .attr("dy", ".35em")
+            .text(function(d) { return d; });
+        d3.select("body")
+            .append("div")
+            .attr("id", "NAME");
+
+        // Load the Europe TopoJSON data
+        d3.json("europe_topology.json", function(error, europe) {
+            if (error) throw error; 
+
+            // Extract the features from the TopoJSON
+            var countries = topojson.feature(europe, europe.objects.europe);
+
+            // Load your data with renewable energy percentages
+            d3.json("renewable_energy_percentage_data.json", function(error, data) {
+                if (error) throw error;
+
+                // Define the custom color scale based on your ranges
+                var colorScale = d3.scale.linear()
+                    .domain([0, 25, 50, 75, 100,]) // Range of renewable energy percentages (0 to 100)
+                    .range(["red", "orange", "yellow", "lightgreen", "darkgreen"]); // Custom color range
+
+                // Draw the countries and apply colors based on renewable energy percentages
+                var drawMap = function(year) {
+                    svg.selectAll(".country")
+                        .data(countries.features)
+                        .enter().append("path")
+                        .attr("class", "country")
+                        .attr("d", function(d) { return path(d.geometry); }) // Use your projection path function
+                        .style("fill", function(d) {
+                            // Find the corresponding data entry for the country and selected year
+                            var countryData = data.find(function(entry) {
+                                return entry.Entity === d.properties.NAME && entry.Year === year;
+                            });
+                            // If data is found, use the color scale to determine the fill color based on renewable percentage
+                            return countryData ? colorScale(countryData['Renewable Energy Percentage']) : 'gray'; // Default to gray if data not found
+                        })
+                        .style("stroke", "#999") // Gray border color
+                        .style("stroke-width", 1) // Border width
+                        .style("stroke-opacity", 1)
+                        .on("click", function(d) { 
+                            drawGraphs(d.properties.NAME);
+                        });
+                };
+
+                // Initial draw with default year
+                drawMap(2015);
+
+                // Add event listener to the slider
+                d3.select("#year-slider").on("input", function() {
+                    var selectedYear = +this.value; // Get the selected year from the slider
+                    d3.select("#selected-year").text(selectedYear); // Update the displayed year
+
+                    svg.selectAll(".country").remove();
+
+                    // Redraw map with new colors based on selected year
+                    drawMap(selectedYear);
+                });
+
+                function drawGraph(sentData, query, yText){
+                    let elementWidth = 700;
+                    let elementHeight = 400;
+                    let margin = { top: 20, right: 20, bottom: 70, left: 100 };
+                    let width = elementWidth - margin.left - margin.right ;
+                    let height = elementHeight - margin.top - margin.bottom;
+
+                    let svg = d3.select("#graph-container")
+                        .append("svg")
+                        .attr("class","graph")
+                        .attr("width", elementWidth)
+                        .attr("height", elementHeight)
+                        .append("g")
+                        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+                        sentData.forEach(function(d) {
+                            console.log(d[query]);
+                        });
+                    
+                        var x = d3.scale.linear()
+                            .domain([2010, 2020]) // Range of years
+                            .range([0, width]);
+                        var y = d3.scale.linear()
+                            .domain([d3.min(sentData, function(d) { return parseFloat(d[query]);}), d3.max(sentData, function(d) { return d[query]; })])
+                            .nice()
+                            .range([height, 0]);
+
+                        var valueline = d3.svg.line()
+                            .x(function(d) {return x(d.Year)})
+                            .y(function(d) {return y(d[query]); });
+
+                        svg.append("path")
+                            .datum(sentData)
+                            .attr("class", "line")
+                            .attr("d",valueline)
+                            .attr("fill","none")
+                            .attr("stroke","black");
+
+                        var xAxis = d3.svg.axis()
+                            .scale(x)
+                            .orient("bottom")
+                            .ticks(11)
+                            .tickFormat(d3.format("d"));
+
+
+                        var yAxis = d3.svg.axis()
+                            .scale(y)
+                            .orient("left")
+                            .ticks(6);
+
+                        svg.append("g")
+                            .attr("class","axis")
+                            .attr("transform", "translate(0," + height + ")")
+                            .call(xAxis);
+
+                            
+                        svg.append("g")
+                            .attr("class", "axis")
+                            .call(yAxis);
+
+                        svg.append("text")
+                            .attr("transform", "translate(" + (width / 2) + " ," + (height + margin.bottom -10) + ")")
+                            .style("text-anchor", "middle")
+                            .text("Godine");
+
+                        svg.append("text")
+                            .attr("transform", "rotate(-90)")
+                            .attr("y", 0 - margin.left + 10)
+                            .attr("x", 0 - (height / 2))
+                            .attr("dy", "1em")
+                            .style("text-anchor", "middle")
+                            .text(yText);
+                }
+
+                function drawGraphs(name){
+
+                    d3.selectAll(".graph").remove();
+                    
+                    d3.json("poverty_index_data.json", function(error, poverty_data) {
+                        if (error) throw error;
+                        
+                        var countryData = data.filter(function(d) {
+                            return d.Entity === name
+                        })
+
+                        var povertyData = poverty_data.filter(function (d) {
+                            return d.Entity === name
+                        })
+
+                        //Renewable Energy Percentage graph
+                        drawGraph(countryData, 'Renewable Energy Percentage', "Postotak Obnovljive Energije [%]");
+
+                        //gdp_growth graph
+                        drawGraph(povertyData, 'gdp_growth', "Porast/Smanjenje GDP godišnje [%]");
+
+                        //gdp_per_capita graph
+                        drawGraph(povertyData, 'gdp_per_capita', "Godisnji GDP [EUR]");
+                        
+                        const element = document.getElementById("graph-container");
+                        element.scrollIntoView({behavior:"smooth"});
+                    });
+                }
+            });
+        });
+
+        function onZoom() {
+            svg.attr( "transform", "translate (" + d3.event.translate + ") scale (" + d3.event.scale + ")" );
+        }
+
+    </script>
+</body>
+</html>
+
+
+
+

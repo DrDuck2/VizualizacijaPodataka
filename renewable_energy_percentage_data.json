@@ -1,0 +1,2477 @@
+[
+    {
+        "Entity": "Albania",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 98.55421686746989
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Albania",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 41.10032362459547
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 34.794908062234796
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 30.22339027595269
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 29.452054794520542
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 26.875852660300136
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 29.539295392953935
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 33.52517985611511
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 30.570652173913043
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 31.300813008130078
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 33.013698630136986
+    },
+    {
+        "Entity": "Armenia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 25.771812080536915
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 66.24944779855691
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 65.70831994860264
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 74.71615720524018
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 78.1854776281158
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 81.46705615060044
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 76.94421988682296
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 78.28352490421454
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 75.71937110649658
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 76.9680196801968
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 77.10979395992096
+    },
+    {
+        "Entity": "Austria",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 80.0982800982801
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 19.211267605633804
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 13.787721123829344
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 8.294930875576037
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 6.672719019518839
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 5.5317324185248715
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 6.958762886597938
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 8.48536274925753
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 7.79616724738676
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 7.85054575986566
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 6.869918699186991
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 5.004101722723544
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 0.3658536585365854
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 0.3968253968253968
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 0.55286800276434
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 0.9797297297297298
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 0.827459393196445
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 0.9056839475327918
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 1.2678288431061808
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 2.310536044362292
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 2.20949263502455
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 2.4946921443736727
+    },
+    {
+        "Entity": "Belarus",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 3.5082872928176787
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 7.042101862818995
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 9.331836047164515
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 12.908376320314419
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 14.329417523250124
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 17.211728221031862
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 21.212566059894304
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 16.972367794187708
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 18.603555869539623
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 23.354189336235038
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 21.091972700682483
+    },
+    {
+        "Entity": "Belgium",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 26.69245647969052
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 48.18181818181818
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 29.766803840877916
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 31.026785714285715
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 42.72076372315036
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 38.0
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 36.740146960587836
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 33.07828134196586
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 24.450194049159123
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 35.526315789473685
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 37.85242951409718
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 31.170483460559794
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 12.527185732927359
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 7.787787787787788
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 11.295180722891567
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 16.054832713754642
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 15.75021312872975
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 17.967145790554415
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 15.798922800718135
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 13.64344535944803
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 20.154705629565967
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 17.100456621004565
+    },
+    {
+        "Entity": "Bulgaria",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 18.572849328692193
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 62.88032454361054
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 47.01691896705254
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 49.669499527856466
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 66.52329749103943
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 73.95833333333334
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 66.84444444444443
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 66.24405705229795
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 60.39016115351994
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 72.17712177121771
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 65.95576619273301
+    },
+    {
+        "Entity": "Croatia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 64.57703927492446
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 1.5009380863039399
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 3.4552845528455287
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 5.508474576271187
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 7.6923076923076925
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 7.142857142857142
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 8.81057268722467
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 8.793456032719838
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 8.6
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 9.486166007905137
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 10.097087378640776
+    },
+    {
+        "Entity": "Cyprus",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 12.371134020618557
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 6.9333646175504455
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 8.353524864428291
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 9.317630758572914
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 10.82150337444729
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 10.786966239265967
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 11.403296170625303
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 11.449823192293623
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 11.226393098624389
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 10.856550771356204
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 11.752360965372509
+    },
+    {
+        "Entity": "Czech Republic",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 12.963194011228948
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 31.97838950347311
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 40.2328222600795
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 48.33876221498372
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 45.9412780656304
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 55.886921404162784
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 65.43380573798825
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 60.196399345335514
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 70.25459233000322
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 68.34650856389986
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 78.17688919010504
+    },
+    {
+        "Entity": "Denmark",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 81.62199791159067
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 8.095605242868158
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 9.154383242823894
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 12.290969899665551
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 9.262048192771083
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 11.164658634538151
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 15.369458128078817
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 13.064913722267873
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 14.133738601823708
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 16.087308003233627
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 28.120893561103816
+    },
+    {
+        "Entity": "Estonia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 48.848684210526315
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 30.097087378640776
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 33.02827482584346
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 40.74761021543729
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 36.108763031839956
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 38.75534581920071
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 44.660620245757755
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 44.407126168224295
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 46.89408610159392
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 45.927407830808804
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 46.62181924539339
+    },
+    {
+        "Entity": "Finland",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 52.0422943221321
+    },
+    {
+        "Entity": "France",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 13.624007249080542
+    },
+    {
+        "Entity": "France",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 11.635530489954176
+    },
+    {
+        "Entity": "France",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 15.03315228891867
+    },
+    {
+        "Entity": "France",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 17.24694249284413
+    },
+    {
+        "Entity": "France",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 16.607499249368583
+    },
+    {
+        "Entity": "France",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 16.002230275996656
+    },
+    {
+        "Entity": "France",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 17.72129240132462
+    },
+    {
+        "Entity": "France",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 16.657675154654005
+    },
+    {
+        "Entity": "France",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 19.731517982737966
+    },
+    {
+        "Entity": "France",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 20.01166654882274
+    },
+    {
+        "Entity": "France",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 23.761024182076813
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 92.88577154308616
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 78.2565130260521
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 75.50158394931363
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 82.97872340425532
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 81.2007874015748
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 78.88784165881245
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 81.4977973568282
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 81.43236074270558
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 83.30536912751678
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 76.98275862068965
+    },
+    {
+        "Entity": "Georgia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 74.73118279569893
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 16.838498975409834
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 20.496719929937047
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 23.056464482019372
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 24.13689297314426
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 26.218243406726348
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 29.472188831821654
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 29.499043501251997
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 33.48554975929165
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 35.09767353647743
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 40.0890757143572
+    },
+    {
+        "Entity": "Germany",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 44.33240489369954
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 18.351341930986404
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 13.769217773272512
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 16.674897119341566
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 25.140056022408963
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 24.190665342601786
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 28.651360216091064
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 27.366292960852785
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 25.009061254077565
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 30.30985915492958
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 33.141210374639776
+    },
+    {
+        "Entity": "Greece",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 36.441029900332225
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 8.08134867540808
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 7.523598001110493
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 7.625649913344888
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 9.190082644628099
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 10.766609880749575
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 10.630571145592606
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 10.216912920465262
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 10.600060919890344
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 11.807077983088005
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 13.74670956420006
+    },
+    {
+        "Entity": "Hungary",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 15.871190339275444
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Iceland",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 100.0
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 13.210227272727273
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 19.992636229749632
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 19.351271654994473
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 22.017989831834182
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 24.757845796203018
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 27.971530249110323
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 24.875951042011245
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 28.962818003913892
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 33.00970873786408
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 38.41145833333333
+    },
+    {
+        "Entity": "Ireland",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 42.1019705974351
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 0.2391118701964134
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 0.43624161073825507
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 0.6983018568481194
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 0.9455493968046951
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 1.5773907328294448
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 1.9458281444582812
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 2.5212591376995377
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 2.64792899408284
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 2.6862204152751565
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 4.043502509760179
+    },
+    {
+        "Entity": "Israel",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 5.3903086161150675
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 25.840018797623443
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 27.67732034429839
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 31.10496492174851
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 39.01487442087296
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 43.49769319492503
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 38.75778608293291
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 37.60793871866295
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 35.41744792554461
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 39.81001426632799
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 39.75630684743435
+    },
+    {
+        "Entity": "Italy",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 42.03977415758622
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 54.90196078431372
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 50.57471264367817
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 66.61264181523502
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 56.935483870967744
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 54.474708171206224
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 50.18050541516246
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 54.20560747663551
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 72.50996015936255
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 51.9345238095238
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 49.53416149068323
+    },
+    {
+        "Entity": "Latvia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 63.63636363636363
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 19.157894736842106
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 27.819548872180448
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 27.44186046511628
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 38.442211055276374
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 43.64161849710983
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 42.0
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 61.58357771260997
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 75.5223880597015
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 80.0
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 78.6624203821656
+    },
+    {
+        "Entity": "Lithuania",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 56.73289183222958
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 8.333333333333332
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 9.090909090909092
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 11.231884057971014
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 19.565217391304348
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 20.94240837696335
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 32.08955223880597
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 58.22784810126582
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 66.66666666666667
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 70.83333333333334
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 74.76635514018692
+    },
+    {
+        "Entity": "Luxembourg",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 79.50819672131148
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 0.0
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 0.0
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 1.3043478260869565
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 1.7699115044247788
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 3.5555555555555554
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 7.6923076923076925
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 16.27906976744186
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 10.303030303030305
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 10.152284263959393
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 10.144927536231881
+    },
+    {
+        "Entity": "Malta",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 11.627906976744185
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 68.40796019900498
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 45.28301886792453
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 51.92982456140351
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 63.45177664974619
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 55.20504731861199
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 49.666666666666664
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 58.59872611464968
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 45.16129032258064
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 59.21052631578948
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 56.268221574344025
+    },
+    {
+        "Entity": "Montenegro",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 52.21238938053098
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 9.394677189152883
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 10.825059309375275
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 12.098573784806444
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 11.92118226600985
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 11.286572369695794
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 12.582720588235293
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 12.984274795748044
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 15.072639225181597
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 16.634412385643913
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 18.86745591522477
+    },
+    {
+        "Entity": "Netherlands",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 26.671553058066618
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 33.47107438016529
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 21.153846153846153
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 16.61341853035144
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 26.108374384236456
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 23.977695167286246
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 35.929203539823
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 36.767317939609235
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 23.03571428571429
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 34.93761140819965
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 22.82793867120954
+    },
+    {
+        "Entity": "The former Yugoslav Republic of Macedonia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 27.715355805243448
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 95.84044195304249
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 96.58505665161239
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 97.9870351415899
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 97.86148420499737
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 97.87143465304385
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 97.90996784565917
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 97.99500438803753
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 98.02573950542416
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 97.97288042733871
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 97.93768213405066
+    },
+    {
+        "Entity": "Norway",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 98.57411368202736
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 6.929936305732484
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 8.054720569290229
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 10.443605766256264
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 10.408150814471355
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 12.53314812476323
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 13.815148563078422
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 13.733517972183753
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 14.199964691343494
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 12.755914803233228
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 15.615799803729145
+    },
+    {
+        "Entity": "Poland",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 17.96487208858343
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 52.80312907431552
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 46.47262914417888
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 42.50603467193329
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 58.32178903621611
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 60.758275596612776
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 47.53267017749172
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 54.625401657365124
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 39.13344887348353
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 50.35096730011984
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 52.98666151169533
+    },
+    {
+        "Entity": "Portugal",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 58.42064415987582
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 33.49282296650718
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 26.322580645161292
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 25.399795848928207
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 34.415029888983774
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 41.60147261849978
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 39.729975728155345
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 41.755689735253135
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 37.98279906176701
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 40.64245810055866
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 41.61879013180128
+    },
+    {
+        "Entity": "Romania",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 44.24667385832434
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 31.77445216461785
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 22.803787480273538
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 25.697706548770384
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 26.051491205709915
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 32.98444976076555
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 26.89545091779728
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 28.12742812742813
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 25.49396267837541
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 29.72457049359149
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 28.513293543136193
+    },
+    {
+        "Entity": "Serbia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 27.42412033306473
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 21.699489423778264
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 17.72421127259837
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 19.36968838526912
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 22.362869198312236
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 23.076923076923077
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 22.79577995478523
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 24.85007496251874
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 23.96482227922316
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 21.866767030485512
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 23.589925505498407
+    },
+    {
+        "Entity": "Slovakia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 24.02665731322343
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 29.212792127921283
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 24.371859296482416
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 27.845659163987136
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 32.34177215189874
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 38.48396501457726
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 29.39189189189189
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 31.176833025261857
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 27.663551401869157
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 32.382133995037215
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 31.71806167400881
+    },
+    {
+        "Entity": "Slovenia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 33.03730017761989
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 32.792218681871546
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 30.040841541682394
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 29.60479286516663
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 39.585035705403776
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 40.10329526442133
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 34.98990918264379
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 38.581806113794755
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 32.220593624038116
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 38.20803295571575
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 37.28081509099634
+    },
+    {
+        "Entity": "Spain",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 43.810880529780924
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 55.298080161670605
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 55.95554964067075
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 59.06387069638887
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 54.03515650526042
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 55.83848909150113
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 63.27160493827161
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 57.17493104111874
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 57.882238324301284
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 55.79701273261508
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 58.745992162451024
+    },
+    {
+        "Entity": "Sweden",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 68.47182367665913
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 54.03706688154715
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 51.182432432432435
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 56.59965716066697
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 56.19592088998764
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 54.898392478010315
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 59.09895414320193
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 58.38260869565217
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 59.07806428823738
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 55.11482254697286
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 56.6015037593985
+    },
+    {
+        "Entity": "Switzerland",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 60.51928783382788
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 26.400075807827157
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 25.335833914863926
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 27.24120644999582
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 28.857297702922413
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 20.912487083697638
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 32.01423705461365
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 32.97161021593774
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 29.43021961339945
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 32.176002106233135
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 43.68043858780013
+    },
+    {
+        "Entity": "Turkey",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 42.0208237836422
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 7.091409808283021
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 5.745062836624776
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 5.661423674127849
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 7.800320066078159
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 5.588526211671613
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 4.392477109626331
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 5.679724917106717
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 7.0457194663903655
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 8.228528092017948
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 7.775448709550635
+    },
+    {
+        "Entity": "Ukraine",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 11.844057736409011
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 6.9092924441160175
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 9.642250588944284
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 11.427304718889413
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 14.972705273228657
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 19.247635810387518
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 24.62277091906721
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 24.678839062685853
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 29.49865711727842
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 33.29198184568835
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 37.456863049898956
+    },
+    {
+        "Entity": "United Kingdom",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 42.86039626508768
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 3.34
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 3.23
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 3.24
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 3.61
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 3.3
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 3.2
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 3.36
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 3.25
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 3.18
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 3.22
+    },
+    {
+        "Entity": "Russia",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 3.72
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2010.0,
+        "Renewable Energy Percentage": 20.01
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2011.0,
+        "Renewable Energy Percentage": 20.37
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2012.0,
+        "Renewable Energy Percentage": 22.14
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2013.0,
+        "Renewable Energy Percentage": 23.82
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2014.0,
+        "Renewable Energy Percentage": 24.31
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2015.0,
+        "Renewable Energy Percentage": 24.73
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2016.0,
+        "Renewable Energy Percentage": 25.3
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2017.0,
+        "Renewable Energy Percentage": 26.07
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2018.0,
+        "Renewable Energy Percentage": 25.75
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2019.0,
+        "Renewable Energy Percentage": 22.04
+    },
+    {
+        "Entity": "Republic of Moldova",
+        "Year": 2020.0,
+        "Renewable Energy Percentage": 23.66
+    }
+]
