@@ -11,15 +11,14 @@
 
 <body>
     <div class="navbar">
-        <a class = "active" href="#home">Home</a>
-        <a href = "#news">News</a>
-        <a href ="#contact">Contact</a>
-        <a href = "#about">About</a>
+        <h2>Renewable Energy Percentage and GDP of European Countries</h2>
     </div>
     <div id="chart-container">
         <div id="chart"></div>
         <div id="comparison-container">
-            <div id="comparison-block"></div>
+            <div id="comparison-block">
+                <h3>Compare Countries</h3>
+            </div>
         </div>
         <div id="addons-container">
             <div id = "addons-block">
@@ -28,15 +27,163 @@
                     <span id="selected-year">2010</span>
                 </div>
                 <div id="selector-comparison">
-                    <div class="selector" id="selector1">Select Country 1</div>
-                    <div class="selector" id="selector2">Select Country 2</div>
-                    <button type="button">Compare</button>
+                    <button type="button" id ="country1" class="button">Select Country 1</button>
+                    <button type="button" id ="country2" class="button">Select Country 2</button>
+                    <button type="button" id="compare">Compare</button>
                 </div>
             </div>
         </div>
     </div>
 
     <script>
+
+        var activeButton = null;
+        var selectedCountry1 = null;
+        var selectedCountry2 = null;
+
+        d3.select("#country1").on("click", function(){
+            setActiveButton("country1");
+
+        });
+
+        d3.select("#country2").on("click", function(){
+            setActiveButton("country2");
+        });
+        
+        function setActiveButton(buttonId){
+            if(activeButton){
+                d3.select("#" + activeButton).classed("active",false);
+            }
+            activeButton = buttonId;
+            d3.select("#"+ buttonId).classed("active", true);
+        }
+
+        function createBarChart(data1, data2, year, query, container, chartWidth, chartHeight){ 
+                var margin = { top: 40, right: 20, bottom: 70, left: 80 },
+                width = chartWidth - margin.left - margin.right,
+                height = chartHeight - margin.top - margin.bottom;
+
+                // Filter data for the specified year
+                var filteredData1 = data1.filter(function(d) { return d.Year === year; });
+                var filteredData2 = data2.filter(function(d) { return d.Year === year; });
+
+                var allData = filteredData1.concat(filteredData2);
+
+                var x = d3.scale.ordinal()
+                    .domain([selectedCountry1, selectedCountry2])
+                    .rangeRoundBands([0, width], 0.1);
+                var y = d3.scale.linear()
+                    .domain([0, d3.max(allData, function(d) { return parseFloat(d[query]); })])
+                    .range([height, 0]); 
+
+                var svg = d3.select(container)
+                    .append("svg")
+                    .attr("width", chartWidth)
+                    .attr("height", chartHeight)
+                    .append("g")
+                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+                var xAxis = d3.svg.axis()
+                    .scale(x)
+                    .orient("bottom");
+
+                svg.append("g")
+                    .attr("class", "x axis")
+                    .attr("transform", "translate(0," + height + ")")
+                    .call(xAxis)
+                    .selectAll("text")
+                    .style("text-anchor", "middle");
+
+                // Add the y-axis
+                var yAxis = d3.svg.axis()
+                    .scale(y)
+                    .orient("left")
+                    .ticks(10);
+
+                svg.append("g")
+                    .attr("class", "y axis")
+                    .call(yAxis)
+                    .append("text")
+                    .attr("transform", "rotate(-90)")
+                    .attr("y", 6)
+                    .attr("dy", ".71em")
+                    .style("text-anchor", "end")
+                    .text(query);
+
+                var xOffset = 50;
+
+                svg.selectAll(".bar1")
+                    .data(filteredData1)
+                    .enter().append("rect")
+                    .attr("class", "bar1")
+                    .attr("x", function(d) { return x(d.Entity) + xOffset}) // Use the entity directly from the data
+                    .attr("width", x.rangeBand() / 2)
+                    .attr("y", function(d) { return y(parseFloat(d[query])); })
+                    .attr("height", function(d) { return height - y(parseFloat(d[query])); })
+                    .attr("fill", "lightgreen")
+                    .each(function(d) {
+                        svg.append("text")
+                        .attr("x", x(d.Entity) + x.rangeBand() / 4 + xOffset) // Adjust x position
+                        .attr("y", y(parseFloat(d[query])) - 5) // Adjust y position
+                        .attr("text-anchor", "middle")
+                        .text(function() { return parseFloat(d[query]).toFixed(2); });
+                    });
+
+                svg.selectAll(".bar2")
+                    .data(filteredData2)
+                    .enter().append("rect")
+                    .attr("class", "bar1")
+                    .attr("x", function(d) { return x(d.Entity) + xOffset }) // Use the entity directly from the data
+                    .attr("width", x.rangeBand() / 2)
+                    .attr("y", function(d) { return y(parseFloat(d[query])); })
+                    .attr("height", function(d) { return height - y(parseFloat(d[query])); })
+                    .attr("fill", "lightblue")
+                    .each(function(d) {
+                        svg.append("text")
+                        .attr("x", x(d.Entity) + x.rangeBand() / 4 + xOffset) // Adjust x position
+                        .attr("y", y(parseFloat(d[query])) - 1) // Adjust y position
+                        .attr("text-anchor", "middle")
+                        .text(function() { return parseFloat(d[query]).toFixed(2); });
+                    });
+
+            }
+
+            function createBarCharts(year){
+                var country1Name = selectedCountry1;
+                var country2Name = selectedCountry2;
+
+                d3.json("renewable_energy_percentage_data.json", function(error, data){
+                    if (error) throw error;
+
+                    d3.json("poverty_index_data.json", function(error, poverty_data){
+                        if(error) throw error;
+
+                        var country1Data = data.filter(function(d) {
+                            return d.Entity === country1Name
+                        })
+                        var poverty1Data = poverty_data.filter(function (d) {
+                            return d.Entity === country1Name
+                        })
+                        var country2Data = data.filter(function(d) {
+                            return d.Entity === country2Name
+                        })
+                        var poverty2Data = poverty_data.filter(function (d) {
+                            return d.Entity === country2Name
+                        })
+
+                        d3.select("#comparison-block").selectAll("svg").remove();
+                        createBarChart(country1Data, country2Data,year,"Renewable Energy Percentage","#comparison-block", 600, 354.5);
+                        createBarChart(poverty1Data, poverty2Data,year,"gdp_per_capita","#comparison-block", 600, 354.5);
+
+                    });
+                });
+            }
+        d3.select("#compare").on("click", function(){
+            if(selectedCountry1 != null && selectedCountry2 != null){
+                var selectedYearText = d3.select("#selected-year").text();
+                createBarCharts(parseInt(selectedYearText));
+            }
+        });
 
         var width = 1000;
         var height = 1200;
@@ -59,36 +206,47 @@
                 .attr("width", 850)
                 .attr("height", 753.5)
                 .style("background", "#f0f0f0") // Light gray background
+                .call(d3.behavior.zoom().scaleExtent([0.3, 5])
+                .on("zoom", onZoom))
                 .append("g");
 
-            var legend = svg.append("g")
-                .attr("class", "legend")
-                .attr("transform", "translate(" + 700 + ", 30)")
-                .selectAll("g")
-                .data(["0%-19%", "20%-39%", "40%-59%", "60%-79%", "80%-100%"])
-                .enter().append("g")
-                .attr("transform", function(d, i) { return "translate(10," + (i * 20 + 10) + ")"; });
+        var text = svg.append("text")
+            .attr("class", "chart-title")
+            .attr("x", 260)
+            .attr("y", 30)
+            .text("Click on Country for Details!")
+            .style("font-size", "20px")
+            .style("text-anchor", "end");
 
-            legend.append("rect")
-                .attr("width", 10)
-                .attr("height", 10)
-                .style("fill", function(d, i) { 
-                    return ["red", "orange", "yellow", "lightgreen", "darkgreen"][i];
-                });
 
-            legend.append("text")
-                .attr("x", 20)
-                .attr("y", 5)
-                .attr("dy", ".35em")
-                .style("font-size","12px")
-                .text(function(d) { return d; });
+        var legend = svg.append("g")
+            .attr("class", "legend")
+            .attr("transform", "translate(" + 700 + ", 30)")
+            .selectAll("g")
+            .data(["0%-19%", "20%-39%", "40%-59%", "60%-79%", "80%-100%"])
+            .enter().append("g")
+            .attr("transform", function(d, i) { return "translate(10," + (i * 20 + 10) + ")"; });
 
-            svg.select(".legend")
-                .append("text")
-                .attr("y", -10)
-                .attr("x", -55)
-                .text("Renewable Energy Percentage")
-                .style("font-size", "14px");
+        legend.append("rect")
+            .attr("width", 10)
+            .attr("height", 10)
+            .style("fill", function(d, i) { 
+                return ["red", "orange", "yellow", "lightgreen", "darkgreen"][i];
+            });
+
+        legend.append("text")
+            .attr("x", 20)
+            .attr("y", 5)
+            .attr("dy", ".35em")
+            .style("font-size","12px")
+            .text(function(d) { return d; });
+
+        svg.select(".legend")
+            .append("text")
+            .attr("y", -10)
+            .attr("x", -55)
+            .text("Renewable Energy Percentage")
+            .style("font-size", "14px");
 
         // Load the Europe TopoJSON data
         d3.json("europe_topology.json", function(error, europe) {
@@ -126,10 +284,15 @@
                         .style("stroke-opacity", 1)
                         .on("mouseover", function(d){
                             handleMouseOver(d.properties.NAME);
+                            d3.select(this).style("cursor", "pointer");
                         })
                         .on("mouseout", handleMouseOut)
                         .on("click", function(d) { 
-                            drawGraphs(d.properties.NAME);
+                            if(!activeButton){
+                                drawGraphs(d.properties.NAME);
+                            }else{
+                                handleCountryClick(d.properties.NAME);
+                            }
                         });
                 };
 
@@ -146,7 +309,26 @@
 
                     // Redraw map with new colors based on selected year
                     drawMap(selectedYear);
+
+                    if(selectedCountry1!= null && selectedCountry2 != null){
+                        createBarCharts(selectedYear);
+                    }
                 });
+
+                function handleCountryClick(countryName){
+                    if(activeButton === "country1"){
+                        selectedCountry1 = countryName;
+                        d3.select("#country1").text(countryName);
+                    }else if(activeButton === "country2"){
+                        selectedCountry2 = countryName;
+                        d3.select("#country2").text(countryName);
+                    }
+
+                    if(activeButton){
+                        d3.select("#" + activeButton).classed("active", false);
+                        activeButton = null;
+                    }
+                }
                 
                 function handleMouseOver(name) {
 
@@ -174,9 +356,12 @@
                 }
 
                 function drawGraph(sentData, query, yText){
+
+                    var bisectDate = d3.bisector(function(d) { return d.Year; }).left;
+
                     let elementWidth = 600;
                     let elementHeight = 400;
-                    let margin = { top: 20, right: 20, bottom: 70, left: 100 };
+                    let margin = { top: 60, right: 20, bottom: 70, left: 100 };
                     let width = elementWidth - margin.left - margin.right ;
                     let height = elementHeight - margin.top - margin.bottom;
 
@@ -200,12 +385,34 @@
                             .x(function(d) {return x(d.Year)})
                             .y(function(d) {return y(d[query]); });
 
+                        var tooltip = svg.append("g")
+                            .attr("class", "tooltip")
+                            .style("display", "none");
+                        tooltip.append("circle")
+                            .attr("r", 4)
+                            .attr("fill", "black");
+
+                        tooltip.append("text")
+                            .attr("x", -30)
+                            .attr("dy", "-0.5em");
+
                         svg.append("path")
                             .datum(sentData)
                             .attr("class", "line")
                             .attr("d",valueline)
                             .attr("fill","none")
-                            .attr("stroke","black");
+                            .attr("stroke","black")
+                            .on("mouseover", function () { tooltip.style("display", null); })
+                            .on("mouseout", function () { tooltip.style("display", "none"); })
+                            .on("mousemove", function (d) {
+                                var x0 = x.invert(d3.mouse(this)[0]);
+                                var i = bisectDate(sentData, x0, 1);
+                                var d0 = sentData[i - 1];
+                                var d1 = sentData[i];
+                                var d = x0 - d0.Year > d1.Year - x0 ? d1 : d0;
+                                tooltip.attr("transform", "translate(" + x(d.Year) + "," + y(d[query]) + ")");
+                                tooltip.select("text").text(parseFloat(d[query]).toFixed(2));
+                            });
 
                         var xAxis = d3.svg.axis()
                             .scale(x)
@@ -230,22 +437,17 @@
                             .call(yAxis);
 
                         svg.append("text")
-                            .attr("transform", "translate(" + (width / 2) + " ," + (height + margin.bottom -10) + ")")
-                            .style("text-anchor", "middle")
-                            .text("Godine");
-
-                        svg.append("text")
                             .attr("transform", "rotate(-90)")
                             .attr("y", 0 - margin.left + 10)
                             .attr("x", 0 - (height / 2))
                             .attr("dy", "1em")
                             .style("text-anchor", "middle")
                             .text(yText);
+
                 }
 
                 function drawGraphs(name){
                     
-
                     d3.selectAll(".graph").remove();
 
                     var graphContainer = d3.select("#graph-container");
@@ -262,6 +464,7 @@
                             .attr("height",2000);
                     }
 
+                    
 
                     d3.json("poverty_index_data.json", function(error, poverty_data) {
                         if (error) throw error;
@@ -275,6 +478,23 @@
                         })
 
                         graphContainer = d3.select("#graph-container");
+
+                        d3.select(".country-name").remove();
+
+                        graphContainer.append("svg")
+                            .attr("class", "country-name")
+                            .attr("width", 800)
+                            .attr("height", 20)
+                            .style("position", "absolute")
+                            .style("top", "20px")
+                            .style("left", "50%")
+                            .style("transform", "translateX(-50%)")
+                            .append("text")
+                            .attr("x", 800 / 2)
+                            .attr("y", 17)
+                            .attr("text-anchor", "middle")
+                            .style("font-size", "24px")
+                            .text(name + " detailed information");
                         
                         if(d3.select(".close-button").empty()){
                             graphContainer.append("svg")
@@ -297,13 +517,13 @@
                     
 
                         //Renewable Energy Percentage graph
-                        drawGraph(countryData, 'Renewable Energy Percentage', "Postotak Obnovljive Energije [%]");
+                        drawGraph(countryData, 'Renewable Energy Percentage', "Renewable Energy Percentage [%]");
 
                         //gdp_growth graph
-                        drawGraph(povertyData, 'gdp_growth', "Porast/Smanjenje GDP godišnje [%]");
+                        drawGraph(povertyData, 'gdp_growth', "Increase/Decrease in GDP[%]");
 
                         //gdp_per_capita graph
-                        drawGraph(povertyData, 'gdp_per_capita', "Godisnji GDP [EUR]");
+                        drawGraph(povertyData, 'gdp_per_capita', "Yearly GDP [EUR]");
                         
                         const element = document.getElementById("graph-container");
                         element.scrollIntoView({behavior:"smooth"});
@@ -312,7 +532,7 @@
                 }
 
                 function createEmptyBarChart(container, chartWidth, chartHeight, numBars) {
-                    var margin = { top: 20, right: 20, bottom: 70, left: 40 },
+                    var margin = { top: 40, right: 20, bottom: 70, left: 80 },
                     width = chartWidth - margin.left - margin.right,
                     height = chartHeight - margin.top - margin.bottom;
 
@@ -363,7 +583,7 @@
                         .attr("y", 6)
                         .attr("dy", ".71em")
                         .style("text-anchor", "end")
-                        .text("Vrijednost");
+                        .text("Value");
 
                     // Create the bars (initially with height 0)
                     svg.selectAll("rect")
@@ -376,10 +596,11 @@
                         .attr("width", barWidth);
                 }
 
-                createEmptyBarChart("#comparison-block", 600, 753.5/2, 10);
-                createEmptyBarChart("#comparison-block", 600, 753.5/2, 10);
+                createEmptyBarChart("#comparison-block", 600, 354.5, 10);
+                createEmptyBarChart("#comparison-block", 600, 354.5, 10);
                 
             });
+
         });
 
         function onZoom() {

@@ -3160,78 +3160,78 @@
         "Entity": "Russia",
         "Year": 2010.0,
         "Poverty_Index": 0.13550530010580086,
-        "gdp_growth": 10675.0,
-        "gdp_per_capita": 4.5
+        "gdp_growth": 4.5,
+        "gdp_per_capita": 10675.0
     },
     {
         "Entity": "Russia",
         "Year": 2011.0,
         "Poverty_Index": 0.1815677589120043,
-        "gdp_growth": 14311.0,
-        "gdp_per_capita": 4.3
+        "gdp_growth": 4.3,
+        "gdp_per_capita": 14311.0
     },
     {
         "Entity": "Russia",
         "Year": 2012.0,
         "Poverty_Index": 0.19562848990804743,
-        "gdp_growth": 15421.0,
-        "gdp_per_capita": 4.02
+        "gdp_growth": 4.02,
+        "gdp_per_capita": 15421.0
     },
     {
         "Entity": "Russia",
         "Year": 2013.0,
         "Poverty_Index": 0.2026341726435259,
-        "gdp_growth": 15975.0,
-        "gdp_per_capita": 1.76
+        "gdp_growth": 1.76,
+        "gdp_per_capita": 15975.0
     },
     {
         "Entity": "Russia",
         "Year": 2014.0,
         "Poverty_Index": 0.17882380217881733,
-        "gdp_growth": 14096.0,
-        "gdp_per_capita": 0.74
+        "gdp_growth": 0.74,
+        "gdp_per_capita": 14096.0
     },
     {
         "Entity": "Russia",
         "Year": 2015.0,
         "Poverty_Index": 0.11821379076994527,
-        "gdp_growth": 9313.0,
-        "gdp_per_capita": -1.97
+        "gdp_growth": -1.97,
+        "gdp_per_capita": 9313.0
     },
     {
         "Entity": "Russia",
         "Year": 2016.0,
         "Poverty_Index": 0.11052342858049254,
-        "gdp_growth": 8705.0,
-        "gdp_per_capita": 0.19
+        "gdp_growth": 0.19,
+        "gdp_per_capita": 8705.0
     },
     {
         "Entity": "Russia",
         "Year": 2017.0,
         "Poverty_Index": 0.13606026321925035,
-        "gdp_growth": 10720.0,
-        "gdp_per_capita": 1.83
+        "gdp_growth": 1.83,
+        "gdp_per_capita": 10720.0
     },
     {
         "Entity": "Russia",
         "Year": 2018.0,
         "Poverty_Index": 0.14324900079704292,
-        "gdp_growth": 11287.0,
-        "gdp_per_capita": 2.81
+        "gdp_growth": 2.81,
+        "gdp_per_capita": 11287.0
     },
     {
         "Entity": "Russia",
         "Year": 2019.0,
         "Poverty_Index": 0.1464000638644093,
-        "gdp_growth": 11536.0,
-        "gdp_per_capita": 2.2
+        "gdp_growth": 2.2,
+        "gdp_per_capita": 11536.0
     },
     {
         "Entity": "Russia",
         "Year": 2020.0,
         "Poverty_Index": 0.12937111013858385,
-        "gdp_growth": 10194.0,
-        "gdp_per_capita": -2.65
+        "gdp_growth": -2.65,
+        "gdp_per_capita": 10194.0
     },
     {
         "Entity": "Republic of Moldova",
@@ -3244,224 +3244,224 @@
         "Entity": "Republic of Moldova",
         "Year": 2011.0,
         "Poverty_Index": 0.037532631433544635,
-        "gdp_growth": 2941.0,
-        "gdp_per_capita": 5.82
+        "gdp_growth": 5.82,
+        "gdp_per_capita": 2941.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2012.0,
         "Poverty_Index": 0.03881385655292833,
-        "gdp_growth": 3045.0,
-        "gdp_per_capita": -0.59
+        "gdp_growth": -0.59,
+        "gdp_per_capita": 3045.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2013.0,
         "Poverty_Index": 0.042365005922565646,
-        "gdp_growth": 3321.0,
-        "gdp_per_capita": 9.04
+        "gdp_growth": 9.04,
+        "gdp_per_capita": 3321.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2014.0,
         "Poverty_Index": 0.04193671115250252,
-        "gdp_growth": 3289.0,
-        "gdp_per_capita": 5.0
+        "gdp_growth": 5.0,
+        "gdp_per_capita": 3289.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2015.0,
         "Poverty_Index": 0.03507799065338607,
-        "gdp_growth": 2750.0,
-        "gdp_per_capita": -0.34
+        "gdp_growth": -0.34,
+        "gdp_per_capita": 2750.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2016.0,
         "Poverty_Index": 0.036347806871293915,
-        "gdp_growth": 2848.0,
-        "gdp_per_capita": 4.65
+        "gdp_growth": 4.65,
+        "gdp_per_capita": 2848.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2017.0,
         "Poverty_Index": 0.0440350775103558,
-        "gdp_growth": 3455.0,
-        "gdp_per_capita": 4.18
+        "gdp_growth": 4.18,
+        "gdp_per_capita": 3455.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2018.0,
         "Poverty_Index": 0.052927976633277606,
-        "gdp_growth": 4157.0,
-        "gdp_per_capita": 4.08
+        "gdp_growth": 4.08,
+        "gdp_per_capita": 4157.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2019.0,
         "Poverty_Index": 0.05606682430469798,
-        "gdp_growth": 4405.0,
-        "gdp_per_capita": 3.55
+        "gdp_growth": 3.55,
+        "gdp_per_capita": 4405.0
     },
     {
         "Entity": "Republic of Moldova",
         "Year": 2020.0,
         "Poverty_Index": 0.055632389987105534,
-        "gdp_growth": 4376.0,
-        "gdp_per_capita": -8.28
+        "gdp_growth": -8.28,
+        "gdp_per_capita": 4376.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2010.0,
         "Poverty_Index": 0.21449489780729283,
-        "gdp_growth": 16909.0,
-        "gdp_per_capita": 6.72
+        "gdp_growth": 6.72,
+        "gdp_per_capita": 16909.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2011.0,
         "Poverty_Index": 0.23475462284366627,
-        "gdp_growth": 18510.0,
-        "gdp_per_capita": 2.67
+        "gdp_growth": 2.67,
+        "gdp_per_capita": 18510.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2012.0,
         "Poverty_Index": 0.22192619262604338,
-        "gdp_growth": 17498.0,
-        "gdp_per_capita": 1.32
+        "gdp_growth": 1.32,
+        "gdp_per_capita": 17498.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2013.0,
         "Poverty_Index": 0.2317785735875054,
-        "gdp_growth": 18276.0,
-        "gdp_per_capita": 0.63
+        "gdp_growth": 0.63,
+        "gdp_per_capita": 18276.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2014.0,
         "Poverty_Index": 0.23741523134679302,
-        "gdp_growth": 18720.0,
-        "gdp_per_capita": 2.7
+        "gdp_growth": 2.7,
+        "gdp_per_capita": 18720.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2015.0,
         "Poverty_Index": 0.20792369902999053,
-        "gdp_growth": 16391.0,
-        "gdp_per_capita": 5.17
+        "gdp_growth": 5.17,
+        "gdp_per_capita": 16391.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2016.0,
         "Poverty_Index": 0.2100844204828232,
-        "gdp_growth": 16563.0,
-        "gdp_per_capita": 1.94
+        "gdp_growth": 1.94,
+        "gdp_per_capita": 16563.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2017.0,
         "Poverty_Index": 0.22303755480307363,
-        "gdp_growth": 17585.0,
-        "gdp_per_capita": 2.94
+        "gdp_growth": 2.94,
+        "gdp_per_capita": 17585.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2018.0,
         "Poverty_Index": 0.24712703456080895,
-        "gdp_growth": 19486.0,
-        "gdp_per_capita": 4.03
+        "gdp_growth": 4.03,
+        "gdp_per_capita": 19486.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2019.0,
         "Poverty_Index": 0.24580087025182756,
-        "gdp_growth": 19382.0,
-        "gdp_per_capita": 2.51
+        "gdp_growth": 2.51,
+        "gdp_per_capita": 19382.0
     },
     {
         "Entity": "Slovakia",
         "Year": 2020.0,
         "Poverty_Index": 0.2479214066949774,
-        "gdp_growth": 19552.0,
-        "gdp_per_capita": -3.34
+        "gdp_growth": -3.34,
+        "gdp_per_capita": 19552.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2010.0,
         "Poverty_Index": 0.253122957127759,
-        "gdp_growth": 19960.0,
-        "gdp_per_capita": 2.43
+        "gdp_growth": 2.43,
+        "gdp_per_capita": 19960.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2011.0,
         "Poverty_Index": 0.2773291505395301,
-        "gdp_growth": 21871.0,
-        "gdp_per_capita": 1.76
+        "gdp_growth": 1.76,
+        "gdp_per_capita": 21871.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2012.0,
         "Poverty_Index": 0.25197719026555915,
-        "gdp_growth": 19871.0,
-        "gdp_per_capita": -0.79
+        "gdp_growth": -0.79,
+        "gdp_per_capita": 19871.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2013.0,
         "Poverty_Index": 0.25530059757393575,
-        "gdp_growth": 20133.0,
-        "gdp_per_capita": -0.05
+        "gdp_growth": -0.05,
+        "gdp_per_capita": 20133.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2014.0,
         "Poverty_Index": 0.2522478496638775,
-        "gdp_growth": 19891.0,
-        "gdp_per_capita": 2.26
+        "gdp_growth": 2.26,
+        "gdp_per_capita": 19891.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2015.0,
         "Poverty_Index": 0.22615528382505423,
-        "gdp_growth": 17830.0,
-        "gdp_per_capita": 5.39
+        "gdp_growth": 5.39,
+        "gdp_per_capita": 17830.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2016.0,
         "Poverty_Index": 0.23557735519317746,
-        "gdp_growth": 18575.0,
-        "gdp_per_capita": 2.54
+        "gdp_growth": 2.54,
+        "gdp_per_capita": 18575.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2017.0,
         "Poverty_Index": 0.2617025628645458,
-        "gdp_growth": 20636.0,
-        "gdp_per_capita": 5.17
+        "gdp_growth": 5.17,
+        "gdp_per_capita": 20636.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2018.0,
         "Poverty_Index": 0.29701200043514,
-        "gdp_growth": 23424.0,
-        "gdp_per_capita": 3.22
+        "gdp_growth": 3.22,
+        "gdp_per_capita": 23424.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2019.0,
         "Poverty_Index": 0.3000640935982787,
-        "gdp_growth": 23665.0,
-        "gdp_per_capita": 3.03
+        "gdp_growth": 3.03,
+        "gdp_per_capita": 23665.0
     },
     {
         "Entity": "Czech Republic",
         "Year": 2020.0,
         "Poverty_Index": 0.2915023510383277,
-        "gdp_growth": 22993.0,
-        "gdp_per_capita": -5.5
+        "gdp_growth": -5.5,
+        "gdp_per_capita": 22993.0
     }
 ]

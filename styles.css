@@ -89,7 +89,7 @@ body {
 #comparison-block{
     width:750px;
     display:flex;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     background-color: #f0f0f0;
 }
@@ -109,11 +109,80 @@ body {
     padding:10px;
     background-color: #f0f0f0;
     height: 733.5px;
-  }
+}
 
-  #slider-container,
-  #selector-comparison {
+#slider-container,
+#selector-comparison {
     display: flex;
     flex-direction: column; /* Arrange children in a column */
     gap: 10px; /* Space between items */
-  }
+}
+
+
+.button {
+    background-color: #4CAF50;
+    width:200px;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Green */
+.button {
+    background-color: #4CAF50;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+/* Blue */
+#compare {
+    background-color: #008CBA;
+}
+
+#compare:hover {
+    background-color: #006C9E;
+    cursor: pointer;
+}
+
+.button:focus{
+    background-color:#006C9E;
+}
+
+/* CSS for lighter grid lines */
+.axis path,
+.axis line {
+  fill: none;
+  stroke: hsl(0, 0%, 67%); /* Adjust the stroke color */
+  stroke-width: 2px; /* Adjust the stroke width */
+  shape-rendering: crispEdges;
+}
+
+
+.axis text {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+h3{
+    padding: 0px;
+    margin-top: 5px;
+
+}
+
+h2{
+    padding: 0px;
+    margin: 0px;
+}
+
