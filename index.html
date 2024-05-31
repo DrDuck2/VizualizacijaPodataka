@@ -94,7 +94,6 @@
                     .selectAll("text")
                     .style("text-anchor", "middle");
 
-                // Add the y-axis
                 var yAxis = d3.svg.axis()
                     .scale(y)
                     .orient("left")
@@ -116,15 +115,15 @@
                     .data(filteredData1)
                     .enter().append("rect")
                     .attr("class", "bar1")
-                    .attr("x", function(d) { return x(d.Entity) + xOffset}) // Use the entity directly from the data
+                    .attr("x", function(d) { return x(d.Entity) + xOffset})
                     .attr("width", x.rangeBand() / 2)
                     .attr("y", function(d) { return y(parseFloat(d[query])); })
                     .attr("height", function(d) { return height - y(parseFloat(d[query])); })
                     .attr("fill", "lightgreen")
                     .each(function(d) {
                         svg.append("text")
-                        .attr("x", x(d.Entity) + x.rangeBand() / 4 + xOffset) // Adjust x position
-                        .attr("y", y(parseFloat(d[query])) - 5) // Adjust y position
+                        .attr("x", x(d.Entity) + x.rangeBand() / 4 + xOffset) 
+                        .attr("y", y(parseFloat(d[query])) - 5) 
                         .attr("text-anchor", "middle")
                         .text(function() { return parseFloat(d[query]).toFixed(2); });
                     });
@@ -133,15 +132,15 @@
                     .data(filteredData2)
                     .enter().append("rect")
                     .attr("class", "bar1")
-                    .attr("x", function(d) { return x(d.Entity) + xOffset }) // Use the entity directly from the data
+                    .attr("x", function(d) { return x(d.Entity) + xOffset }) 
                     .attr("width", x.rangeBand() / 2)
                     .attr("y", function(d) { return y(parseFloat(d[query])); })
                     .attr("height", function(d) { return height - y(parseFloat(d[query])); })
                     .attr("fill", "lightblue")
                     .each(function(d) {
                         svg.append("text")
-                        .attr("x", x(d.Entity) + x.rangeBand() / 4 + xOffset) // Adjust x position
-                        .attr("y", y(parseFloat(d[query])) - 1) // Adjust y position
+                        .attr("x", x(d.Entity) + x.rangeBand() / 4 + xOffset)
+                        .attr("y", y(parseFloat(d[query])) - 1) 
                         .attr("text-anchor", "middle")
                         .text(function() { return parseFloat(d[query]).toFixed(2); });
                     });
@@ -192,7 +191,7 @@
             .domain([50000, 800000])
             .range([0, 6]);
 
-        // Define the projection for Europe map
+    
         var projection = d3.geo.mercator()
             .center([30, 40]) // Center of Europe
             .scale(500) // Scale for Europe map
@@ -205,7 +204,7 @@
                 .append("svg")
                 .attr("width", 850)
                 .attr("height", 753.5)
-                .style("background", "#f0f0f0") // Light gray background
+                .style("background", "#f0f0f0")
                 .call(d3.behavior.zoom().scaleExtent([0.3, 5])
                 .on("zoom", onZoom))
                 .append("g");
@@ -248,39 +247,36 @@
             .text("Renewable Energy Percentage")
             .style("font-size", "14px");
 
-        // Load the Europe TopoJSON data
         d3.json("europe_topology.json", function(error, europe) {
             if (error) throw error; 
 
-            // Extract the features from the TopoJSON
             var countries = topojson.feature(europe, europe.objects.europe);
 
-            // Load your data with renewable energy percentages
             d3.json("renewable_energy_percentage_data.json", function(error, data) {
                 if (error) throw error;
 
-                // Define the custom color scale based on your ranges
+    
                 var colorScale = d3.scale.linear()
-                    .domain([0, 25, 50, 75, 100,]) // Range of renewable energy percentages (0 to 100)
-                    .range(["red", "orange", "yellow", "lightgreen", "darkgreen"]); // Custom color range
+                    .domain([0, 25, 50, 75, 100,])
+                    .range(["red", "orange", "yellow", "lightgreen", "darkgreen"]); 
 
-                // Draw the countries and apply colors based on renewable energy percentages
+        
                 var drawMap = function(year) {
                     svg.selectAll(".country")
                         .data(countries.features)
                         .enter().append("path")
                         .attr("class", "country")
-                        .attr("d", function(d) { return path(d.geometry); }) // Use your projection path function
+                        .attr("d", function(d) { return path(d.geometry); }) 
                         .style("fill", function(d) {
-                            // Find the corresponding data entry for the country and selected year
+                       
                             var countryData = data.find(function(entry) {
                                 return entry.Entity === d.properties.NAME && entry.Year === year;
                             });
-                            // If data is found, use the color scale to determine the fill color based on renewable percentage
-                            return countryData ? colorScale(countryData['Renewable Energy Percentage']) : 'gray'; // Default to gray if data not found
+              
+                            return countryData ? colorScale(countryData['Renewable Energy Percentage']) : 'gray'; 
                         })
-                        .style("stroke", "#999") // Gray border color
-                        .style("stroke-width", 1) // Border width
+                        .style("stroke", "#999") 
+                        .style("stroke-width", 1) 
                         .style("stroke-opacity", 1)
                         .on("mouseover", function(d){
                             handleMouseOver(d.properties.NAME);
@@ -297,17 +293,17 @@
                 };
 
 
-                // Initial draw with default year
+              
                 drawMap(2010);
 
-                // Add event listener to the slider
+              
                 d3.select("#year-slider").on("input", function() {
-                    var selectedYear = +this.value; // Get the selected year from the slider
-                    d3.select("#selected-year").text(selectedYear); // Update the displayed year
+                    var selectedYear = +this.value; 
+                    d3.select("#selected-year").text(selectedYear);
 
                     svg.selectAll(".country").remove();
 
-                    // Redraw map with new colors based on selected year
+         
                     drawMap(selectedYear);
 
                     if(selectedCountry1!= null && selectedCountry2 != null){
@@ -343,15 +339,15 @@
 
                     svg.on("mousemove", function() {
                         var coordinates = d3.mouse(this);
-                        var x = coordinates[0] + 5; // Add offset
-                        var y = coordinates[1] - 5; // Subtract offset
+                        var x = coordinates[0] + 5; 
+                        var y = coordinates[1] - 5; 
                         tooltip.attr("x", x)
                             .attr("y", y);
                     })
                 }
 
                 function handleMouseOut() {
-                    // Remove the tooltip when mouse moves out
+                
                     d3.select(".tooltip").remove()
                 }
 
@@ -374,7 +370,7 @@
                         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
                         var x = d3.scale.linear()
-                            .domain([2010, 2020]) // Range of years
+                            .domain([2010, 2020])
                             .range([0, width]);
                         var y = d3.scale.linear()
                             .domain([d3.min(sentData, function(d) { return parseFloat(d[query]);}), d3.max(sentData, function(d) { return d[query]; })])
@@ -539,16 +535,16 @@
                     var barPadding = 4;
                     var barWidth = width / numBars - barPadding;
 
-                    // Scales for x and y axes
+                  
                     var x = d3.scale.ordinal()
                         .domain(d3.range(numBars))
                         .rangeRoundBands([0, width]);
 
                     var y = d3.scale.linear()
-                        .domain([0, 1])  // Set initial y-domain to 0 to 1 for empty bars
+                        .domain([0, 1]) 
                         .range([height, 0]);
 
-                    // Create the SVG container and set the origin
+                  
                     var svg = d3.select(container)
                         .append("svg")
                         .attr("width", chartWidth)
@@ -556,7 +552,7 @@
                         .append("g")
                         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-                    // Add the x-axis
+                   
                     var xAxis = d3.svg.axis()
                         .scale(x)
                         .orient("bottom")
@@ -569,7 +565,7 @@
                         .selectAll("text")
                         .style("text-anchor", "middle");
 
-                    // Add the y-axis
+                 
                     var yAxis = d3.svg.axis()
                         .scale(y)
                         .orient("left")
@@ -585,7 +581,7 @@
                         .style("text-anchor", "end")
                         .text("Value");
 
-                    // Create the bars (initially with height 0)
+                 
                     svg.selectAll("rect")
                         .data(d3.range(numBars))
                         .enter()
